@@ -1,0 +1,1521 @@
+marques,modele_exact,stockages_gb,prix_neuf_en_fcfa,classe_equivalence,ram_gb,annee_sortie
+Apple,iPhone 11,64,110000,C,4,2019
+Apple,iPhone 11,128,125000,C,4,2019
+Apple,iPhone 11,256,140000,C,4,2019
+Apple,iPhone 11 pro,64,160000,C,4,2019
+Apple,iPhone 11 pro,256,180000,C,4,2019
+Apple,iPhone 11 pro,512,200000,C,4,2019
+Apple,iPhone 11 pro max,64,220000,C,4,2019
+Apple,iPhone 11 pro max,256,250000,C,4,2019
+Apple,iPhone 11 pro max,512,280000,C,4,2019
+Apple,iPhone 12,64,150000,B,4,2020
+Apple,iPhone 12,128,170000,B,4,2020
+Apple,iPhone 12,256,190000,B,4,2020
+Apple,iPhone 12 pro,128,220000,B,6,2020
+Apple,iPhone 12 pro,256,250000,B,6,2020
+Apple,iPhone 12 pro,512,280000,B,6,2020
+Apple,iPhone 12 pro max,128,300000,B,6,2020
+Apple,iPhone 12 pro max,256,340000,B,6,2020
+Apple,iPhone 12 pro max,512,380000,B,6,2020
+Apple,iPhone 12 mini,64,130000,B,4,2020
+Apple,iPhone 12 mini,128,150000,B,4,2020
+Apple,iPhone 12 mini,256,170000,B,4,2020
+Apple,iPhone 13,128,220000,B,4,2021
+Apple,iPhone 13,256,260000,B,4,2021
+Apple,iPhone 13,512,300000,B,4,2021
+Apple,iPhone 13 pro,128,320000,B,6,2021
+Apple,iPhone 13 pro,256,360000,B,6,2021
+Apple,iPhone 13 pro,512,400000,B,6,2021
+Apple,iPhone 13 pro,1024,440000,B,6,2021
+Apple,iPhone 13 pro max,128,450000,B,6,2021
+Apple,iPhone 13 pro max,256,500000,B,6,2021
+Apple,iPhone 13 pro max,512,550000,B,6,2021
+Apple,iPhone 13 pro max,1024,600000,B,6,2021
+Apple,iPhone 13 mini,128,200000,B,4,2021
+Apple,iPhone 13 mini,256,230000,B,4,2021
+Apple,iPhone 13 mini,512,260000,B,4,2021
+Apple,iPhone 14,128,280000,A,6,2022
+Apple,iPhone 14,256,320000,A,6,2022
+Apple,iPhone 14,512,360000,A,6,2022
+Apple,iPhone 14 plus,128,320000,A,6,2022
+Apple,iPhone 14 plus,256,360000,A,6,2022
+Apple,iPhone 14 plus,512,400000,A,6,2022
+Apple,iPhone 14 pro,128,450000,A,6,2022
+Apple,iPhone 14 pro,256,500000,A,6,2022
+Apple,iPhone 14 pro,512,550000,A,6,2022
+Apple,iPhone 14 pro,1024,600000,A,6,2022
+Apple,iPhone 14 pro max,128,600000,A,6,2022
+Apple,iPhone 14 pro max,256,650000,A,6,2022
+Apple,iPhone 14 pro max,512,700000,A,6,2022
+Apple,iPhone 14 pro max,1024,750000,A,6,2022
+Apple,iPhone 15,128,400000,A,6,2023
+Apple,iPhone 15,256,450000,A,6,2023
+Apple,iPhone 15,512,500000,A,6,2023
+Apple,iPhone 15 plus,128,450000,A,6,2023
+Apple,iPhone 15 plus,256,500000,A,6,2023
+Apple,iPhone 15 plus,512,550000,A,6,2023
+Apple,iPhone 15 pro,256,600000,A,8,2023
+Apple,iPhone 15 pro,128,650000,A,8,2023
+Apple,iPhone 15 pro,512,700000,A,8,2023
+Apple,iPhone 15 pro,1024,750000,A,8,2023
+Apple,iPhone 15 pro max,256,750000,A,8,2023
+Apple,iPhone 15 pro max,512,800000,A,8,2023
+Apple,iPhone 15 pro max,1024,850000,A,8,2023
+Apple,iPhone 6,16,60000,F,1,2014
+Apple,iPhone 6,32,65000,F,1,2014
+Apple,iPhone 6,64,70000,F,1,2014
+Apple,iPhone 6,128,75000,F,1,2014
+Apple,iPhone 6 plus,16,70000,F,1,2014
+Apple,iPhone 6 plus,32,75000,F,1,2014
+Apple,iPhone 6 plus,64,80000,F,1,2014
+Apple,iPhone 6 plus,128,85000,F,1,2014
+Apple,iPhone 6s,16,75000,F,2,2015
+Apple,iPhone 6s,32,80000,F,2,2015
+Apple,iPhone 6s,64,85000,F,2,2015
+Apple,iPhone 6s,128,90000,F,2,2015
+Apple,iPhone 6s plus,16,85000,F,2,2015
+Apple,iPhone 6s plus,32,90000,F,2,2015
+Apple,iPhone 6s plus,64,95000,F,2,2015
+Apple,iPhone 6s plus,128,100000,F,2,2015
+Apple,iPhone 7,32,100000,E,2,2016
+Apple,iPhone 7,128,120000,E,2,2016
+Apple,iPhone 7 plus,32,130000,E,3,2016
+Apple,iPhone 8,64,135000,E,2,2017
+Apple,iPhone 8,256,150000,E,2,2017
+Apple,iPhone 8 plus,64,165000,E,3,2017
+Apple,iPhone 8 plus,256,180000,E,3,2017
+Apple,iPhone se (1ere Gen.),16,55000,F,2,2016
+Apple,iPhone se (1ere Gen.),32,60000,F,2,2016
+Apple,iPhone se (1ere Gen.),64,65000,F,2,2016
+Apple,iPhone se (1ere Gen.),128,70000,F,2,2016
+Apple,iPhone se (2eme Gen.),64,135000,D,3,2020
+Apple,iPhone se (2eme Gen.),128,150000,D,3,2020
+Apple,iPhone se (2eme Gen.),256,180000,D,3,2020
+Apple,iPhone se (3eme Gen.),64,200000,C,4,2022
+Apple,iPhone se (3eme Gen.),128,220000,C,4,2022
+Apple,iPhone se (3eme Gen.),256,250000,C,4,2022
+Apple,iPhone x,64,170000,D,3,2017
+Apple,iPhone x,256,200000,D,3,2017
+Apple,iPhone xr,64,180000,D,3,2018
+Apple,iPhone xr,128,200000,D,3,2018
+Apple,iPhone xr,256,220000,D,3,2018
+Apple,iPhone xs,64,200000,D,4,2018
+Apple,iPhone xs,64,240000,D,4,2018
+Apple,iPhone xs,256,280000,D,4,2018
+Apple,iPhone xs,512,235000,D,4,2018
+Apple,iPhone xs max,256,270000,D,4,2018
+Apple,iPhone xs max,512,115000,D,4,2018
+Apple,iPhone7,256,130000,E,2,2016
+Apple,iPhone 7,32,45000,E,2,2016
+Apple,iphone 7,128,60000,E,2,2016
+Apple,iPhone 7 plus,128,150000,E,2,2016
+Apple,iPhone 7 plus,256,150000,E,3,2016
+Asus,asus rog phone 6,256,350000,E,3,2016
+Asus,asus rog phone 6 pro,512,400000,B,16,2022
+Asus,asus rog phone 6 pro,512,400000,B,12,2022
+Asus,asus rog phone 6d ultimate,512,450000,B,16,2022
+Asus,asus rog phone 7,256,420000,B,18,2022
+Asus,asus rog phone 7,512,480000,B,12,2023
+Asus,asus rog phone 7 ultimate,512,550000,B,16,2023
+Asus,asus rog phone 8,256,500000,B,18,2023
+Asus,asus rog phone 8,512,580000,A,12,2024
+Asus,asus rog phone 8,512,580000,A,16,2024
+Asus,asus rog phone 8,256,650000,A,16,2024
+Asus,asus rog phone 8 pro,512,720000,A,16,2024
+Asus,asus rog phone 8 pro,1024,800000,A,24,2024
+Asus,asus rog phone 8 pro,32,45000,A,24,2024
+Google Pixel,google pixel,128,50000,F,6,2020
+Google Pixel,google pixel,64,55000,F,6,2020
+Google Pixel,google pixel 2,128,60000,E,6,2017
+Google Pixel,google pixel 2,64,65000,E,6,2017
+Google Pixel,google pixel 2 xl,128,70000,E,6,2017
+Google Pixel,google pixel 2 xl,64,60000,E,6,2017
+Google Pixel,google pixel 3,128,65000,E,6,2018
+Google Pixel,google pixel 3,64,75000,E,6,2018
+Google Pixel,google pixel 3 xl,128,85000,E,6,2018
+Google Pixel,google pixel 3 xl,64,50000,E,6,2018
+Google Pixel,google pixel 3a,64,55000,E,6,2018
+Google Pixel,google pixel 3a xl,64,70000,E,6,2018
+Google Pixel,google pixel 4,128,80000,D,6,2019
+Google Pixel,google pixel 4,64,110000,D,6,2019
+Google Pixel,google pixel 4 xl,128,140000,D,6,2019
+Google Pixel,google pixel 4 xl,64,90000,D,6,2019
+Google Pixel,google pixel 4a,128,110000,D,8,2019
+Google Pixel,google pixel 4a (5g),128,120000,D,8,2019
+Google Pixel,google pixel 5,128,130000,D,8,2020
+Google Pixel,google pixel 5a (5g),128,95000,C,6,2020
+Google Pixel,google pixel 6,256,110000,C,6,2021
+Google Pixel,google pixel 6,128,140000,C,12,2021
+Google Pixel,google pixel 6 pro,256,160000,C,12,2021
+Google Pixel,google pixel 6 pro,512,185000,C,12,2021
+Google Pixel,google pixel 6 pro,128,115000,C,6,2021
+Google Pixel,google pixel 6a,128,105000,C,8,2021
+Google Pixel,google pixel 7,256,125000,B,8,2022
+Google Pixel,google pixel 7,128,145000,B,12,2022
+Google Pixel,google pixel 7 pro,256,165000,B,12,2022
+Google Pixel,google pixel 7 pro,512,185000,B,12,2022
+Google Pixel,google pixel 7 pro,128,140000,B,8,2022
+Google Pixel,google pixel 7a,128,200000,B,8,2022
+Google Pixel,google pixel 8,256,230000,A,8,2023
+Google Pixel,google pixel 8,128,300000,A,12,2023
+Google Pixel,google pixel 8 pro,256,350000,A,12,2023
+Google Pixel,google pixel 8 pro,512,400000,A,12,2023
+Google Pixel,google pixel 8 pro,1024,450000,A,12,2023
+Google Pixel,google pixel 8 pro,128,220000,A,8,2023
+Google Pixel,google pixel 8a,256,260000,A,8,2023
+Google Pixel,google pixel 8a,128,350000,A,6,2023
+Google Pixel,google pixel 9,256,400000,A,6,2024
+Google Pixel,google pixel 9,128,500000,A,12,2024
+Google Pixel,google pixel 9 pro,256,550000,A,12,2024
+Google Pixel,google pixel 9 pro,512,600000,A,12,2024
+Google Pixel,google pixel 9 pro,1024,650000,A,12,2024
+Google Pixel,google pixel 9 pro,256,700000,A,12,2024
+Google Pixel,google pixel 9 pro fold,512,750000,A,12,2024
+Google Pixel,google pixel 9 pro fold,1024,800000,A,12,2024
+Google Pixel,google pixel 9 pro fold,128,550000,A,12,2024
+Google Pixel,google pixel 9 pro xl,256,600000,A,12,2024
+Google Pixel,google pixel 9 pro xl,512,650000,A,12,2024
+Google Pixel,google pixel 9 pro xl,1024,700000,A,12,2024
+Google Pixel,google pixel 9 pro xl,32,50000,A,6,2024
+Google Pixel,google pixel xl,128,55000,F,6,2020
+Google Pixel,google pixel xl,128,150000,F,6,2020
+Honor,honor 70,256,180000,C,8,2022
+Honor,honor 70,128,200000,C,6,2022
+Honor,honor 80,256,230000,B,8,2022
+Honor,honor 80,256,250000,B,8,2022
+Honor,honor 80 pro,512,280000,B,8,2022
+Honor,honor 80 pro,256,220000,B,8,2022
+Honor,honor 90,512,260000,B,8,2023
+Honor,honor 90,128,280000,B,8,2023
+Honor,honor magic 4,256,320000,C,12,2020
+Honor,honor magic 4,256,350000,C,12,2020
+Honor,honor magic 4 pro,512,400000,C,12,2020
+Honor,honor magic 4 pro,512,420000,C,12,2020
+Honor,honor magic 4 ultimate,256,380000,C,12,2020
+Honor,honor magic 5,512,450000,B,12,2020
+Honor,honor magic 5,256,500000,B,12,2020
+Honor,honor magic 5 pro,512,550000,B,12,2020
+Honor,honor magic 5 pro,512,580000,B,12,2020
+Honor,honor magic 5 ultimate,256,450000,B,12,2020
+Honor,honor magic 6,512,500000,A,12,2020
+Honor,honor magic 6,256,550000,A,12,2020
+Honor,honor magic 6 pro,512,600000,A,12,2020
+Honor,honor magic 6 pro,1024,650000,A,12,2020
+Honor,honor magic 6 pro,512,680000,A,12,2020
+Honor,honor magic 6 ultimate,1024,750000,A,12,2020
+Honor,honor magic 6 ultimate,128,88000,A,6,2020
+Honor,honor x7b,256,110000,C,8,2024
+Honor,honor x7b,128,160000,C,6,2024
+Honor,honor x8b,256,185000,C,8,2025
+Honor,honor x8b,256,235000,C,8,2025
+Honor,honor x9b,128,250000,B,6,2023
+Huawei,huawei mate 40,256,300000,D,8,2020
+Huawei,huawei mate 40,256,350000,D,12,2020
+Huawei,huawei mate 40 pro,512,400000,D,12,2020
+Huawei,huawei mate 40 pro,256,420000,D,12,2020
+Huawei,huawei mate 40 pro+,512,480000,D,12,2020
+Huawei,huawei mate 40 pro+,256,450000,D,8,2020
+Huawei,huawei mate 60,512,500000,A,8,2023
+Huawei,huawei mate 60,256,550000,A,12,2023
+Huawei,huawei mate 60 pro,512,600000,A,12,2023
+Huawei,huawei mate 60 pro,1024,650000,A,12,2023
+Huawei,huawei mate 60 pro,512,680000,A,12,2023
+Huawei,huawei mate 60 pro+,1024,750000,A,12,2023
+Huawei,huawei mate 60 pro+,128,180000,A,6,2023
+Huawei,huawei nova 10,256,220000,C,8,2017
+Huawei,huawei nova 10,128,250000,C,8,2017
+Huawei,huawei nova 10 pro,256,290000,C,12,2017
+Huawei,huawei nova 10 pro,128,200000,C,6,2017
+Huawei,huawei nova 11,256,240000,B,8,2017
+Huawei,huawei nova 11,256,280000,B,12,2017
+Huawei,huawei nova 11 pro,512,320000,B,12,2017
+Huawei,huawei nova 11 pro,256,350000,B,12,2017
+Huawei,huawei nova 11 ultra,256,300000,B,12,2017
+Huawei,huawei nova 12 pro,512,350000,B,12,2017
+Huawei,huawei nova 12 pro,256,160000,B,8,2017
+Huawei,huawei nova 12 se,512,380000,B,12,2017
+Huawei,huawei nova 12 ultra,1024,420000,B,12,2017
+Huawei,huawei nova 12 ultra,128,140000,B,6,2017
+Huawei,huawei nova 12i,256,170000,B,8,2017
+Huawei,huawei nova 12i,256,190000,B,8,2017
+Huawei,huawei nova 12s,128,250000,B,6,2017
+Huawei,huawei nova 13,256,290000,A,8,2017
+Huawei,huawei nova 13,256,330000,A,12,2017
+Huawei,huawei nova 13 pro,512,370000,A,12,2017
+Huawei,huawei nova 13 pro,128,150000,A,6,2017
+Huawei,huawei nova 8,256,180000,E,8,2021
+Huawei,huawei nova 8,128,170000,E,6,2021
+Huawei,huawei nova 9,256,200000,D,8,2021
+Huawei,huawei nova 9,128,130000,D,6,2021
+Huawei,huawei nova 9 se,256,160000,D,8,2022
+Huawei,huawei nova 9 se,64,70000,D,4,2022
+Huawei,huawei p30,128,85000,F,6,2019
+Huawei,huawei p30,256,100000,F,8,2019
+Huawei,huawei p30,128,55000,F,6,2019
+Huawei,huawei p30 lite,256,70000,F,8,2019
+Huawei,huawei p30 lite,128,80000,F,8,2019
+Huawei,huawei p30 pro,256,95000,F,12,2019
+Huawei,huawei p30 pro,512,110000,F,12,2019
+Huawei,huawei p30 pro,128,120000,E,6,2019
+Huawei,huawei p40,256,150000,E,8,2020
+Huawei,huawei p40,128,200000,E,8,2020
+Huawei,huawei p40 pro,256,250000,E,12,2020
+Huawei,huawei p40 pro,512,300000,E,12,2020
+Huawei,huawei p40 pro,512,320000,E,12,2020
+Huawei,huawei p40 pro+,128,220000,C,6,2020
+Huawei,huawei p50,256,270000,C,8,2021
+Huawei,huawei p50,256,280000,C,8,2021
+Huawei,huawei p50 pocket,512,330000,C,8,2022
+Huawei,huawei p50 pocket,128,350000,C,8,2022
+Huawei,huawei p50 pro,256,400000,C,12,2021
+Huawei,huawei p50 pro,512,450000,C,12,2021
+Huawei,huawei p50 pro,128,300000,B,6,2021
+Huawei,huawei p60,256,350000,B,8,2023
+Huawei,huawei p60,512,400000,B,8,2023
+Huawei,huawei p60,256,450000,B,12,2023
+Huawei,huawei p60 pro,512,500000,B,12,2023
+Huawei,huawei p60 pro,256,450000,A,8,2023
+Huawei,huawei pura 70,512,500000,A,8,2024
+Huawei,huawei pura 70,256,550000,A,12,2024
+Huawei,huawei pura 70 pro,512,600000,A,12,2024
+Huawei,huawei pura 70 pro,1024,650000,A,12,2024
+Huawei,huawei pura 70 pro,512,700000,A,12,2024
+Huawei,huawei pura 70 ultra,1024,750000,A,12,2024
+Huawei,huawei pura 70 ultra,64,45000,A,4,2024
+Huawei,huawei y7a,128,55000,F,6,2020
+Huawei,huawei y7a,64,50000,F,4,2020
+Huawei,huawei y8p,128,60000,F,6,2020
+Huawei,huawei y8p,64,55000,F,4,2020
+Huawei,huawei y8s,128,65000,F,6,2020
+Huawei,huawei y8s,64,27000,F,4,2020
+Huawei,huawei y9 (2019),128,35000,F,6,2018
+Huawei,huawei y9 (2019),64,38000,F,4,2018
+Huawei,huawei y9 prime (2019),128,45000,F,6,2019
+Huawei,huawei y9 prime (2019),128,40000,F,6,2019
+Huawei,huawei y9a,64,35000,F,4,2020
+Huawei,huawei y9s,128,45000,F,6,2019
+Huawei,huawei y9s,256,250000,F,6,2019
+Infinix,infinix gt 10 pro,256,300000,B,6,2021
+Infinix,infinix gt 20 pro,64,40000,A,3,2022
+Infinix,infinix hot 10,128,50000,F,4,2022
+Infinix,infinix hot 10,32,35000,F,2,2022
+Infinix,infinix hot 10 play,64,45000,F,3,2022
+Infinix,infinix hot 10 play,64,45000,F,3,2022
+Infinix,infinix hot 10s,128,55000,F,4,2022
+Infinix,infinix hot 10s,64,50000,F,3,2022
+Infinix,infinix hot 10t,128,60000,F,4,2022
+Infinix,infinix hot 10t,64,55000,F,3,2023
+Infinix,infinix hot 11,128,65000,E,4,2023
+Infinix,infinix hot 11,64,60000,E,3,2023
+Infinix,infinix hot 11s nfc,128,70000,E,4,2023
+Infinix,infinix hot 11s nfc,64,55000,E,3,2024
+Infinix,infinix hot 12 play,128,65000,D,4,2022
+Infinix,infinix hot 12 play,128,70000,D,4,2022
+Infinix,infinix hot 12 pro,64,75000,D,3,2022
+Infinix,infinix hot 20,128,85000,D,4,2022
+Infinix,infinix hot 20,64,90000,D,3,2022
+Infinix,infinix hot 20 5g,128,110000,C,4,2022
+Infinix,infinix hot 20 5g,128,80000,C,4,2022
+Infinix,infinix hot 20s,128,95000,D,4,2022
+Infinix,infinix hot 30,64,65000,C,3,2023
+Infinix,infinix hot 30i,128,75000,D,4,2023
+Infinix,infinix hot 30i,128,120000,D,4,2023
+Infinix,infinix hot 40 5g,256,140000,B,6,2023
+Infinix,infinix hot 40 5g,128,85000,B,4,2023
+Infinix,infinix hot 40 pro,256,125000,B,6,2023
+Infinix,infinix hot 40 pro,128,40000,B,4,2023
+Infinix,infinix hot 40i,256,55000,C,6,2023
+Infinix,infinix hot 40i,64,35000,C,3,2023
+Infinix,infinix hot 9,32,30000,F,2,2020
+Infinix,infinix hot 9 play,64,40000,F,3,2020
+Infinix,infinix hot 9 play,64,60000,F,3,2020
+Infinix,infinix note 10,128,70000,E,4,2021
+Infinix,infinix note 10,128,75000,E,4,2021
+Infinix,infinix note 10 pro,256,85000,E,6,2021
+Infinix,infinix note 10 pro,64,80000,E,3,2021
+Infinix,infinix note 11,128,90000,D,4,2021
+Infinix,infinix note 11,128,95000,D,4,2021
+Infinix,infinix note 11 pro,64,100000,D,3,2021
+Infinix,infinix note 12,128,110000,D,4,2022
+Infinix,infinix note 12,256,120000,D,6,2022
+Infinix,infinix note 12 pro 4g,128,140000,C,4,2022
+Infinix,infinix note 12 pro 5g,128,130000,C,4,2022
+Infinix,infinix note 30,256,150000,B,6,2023
+Infinix,infinix note 30,256,165000,B,6,2023
+Infinix,infinix note 30 pro,128,110000,B,4,2023
+Infinix,infinix note 30i,256,130000,C,6,2023
+Infinix,infinix note 30i,128,140000,C,4,2023
+Infinix,infinix note 40 4g,256,160000,A,6,2024
+Infinix,infinix note 40 4g,128,170000,A,4,2024
+Infinix,infinix note 40 5g,256,190000,A,6,2024
+Infinix,infinix note 40 5g,256,165000,A,6,2024
+Infinix,infinix note 40 pro 4g,256,225000,A,6,2024
+Infinix,infinix note 40 pro 5g,256,250000,A,6,2024
+Infinix,infinix note 40 pro+ 5g,64,35000,A,3,2019
+Infinix,infinix note 6,64,40000,F,3,2019
+Infinix,infinix note 7,128,45000,F,4,2020
+Infinix,infinix note 7,64,50000,F,3,2020
+Infinix,infinix note 8,128,55000,F,4,2021
+Infinix,infinix note 8,32,30000,F,2,2021
+Infinix,infinix s4,64,35000,F,3,2021
+Infinix,infinix s4,64,40000,F,3,2021
+Infinix,infinix s5 pro,128,45000,F,4,2019
+Infinix,infinix s5 pro,32,25000,F,2,2019
+Infinix,infinix smart 4,32,28000,F,2,2019
+Infinix,infinix smart 4 plus,64,32000,F,3,2019
+Infinix,infinix smart 4 plus,32,25000,F,2,2019
+Infinix,infinix smart 6,64,30000,E,3,2019
+Infinix,infinix smart 6,64,35000,E,3,2019
+Infinix,infinix smart 6 plus,64,40000,E,3,2019
+Infinix,infinix smart 8,128,45000,D,4,2019
+Infinix,infinix smart 8,64,50000,D,3,2019
+Infinix,infinix smart 8 pro,128,55000,D,4,2020
+Infinix,infinix smart 8 pro,256,120000,D,6,2020
+Infinix,infinix zero 20,256,180000,C,6,2020
+Infinix,infinix zero 30 4g,512,220000,B,6,2020
+Infinix,infinix zero 30 4g,256,250000,B,6,2020
+Infinix,infinix zero 30 5g,128,100000,B,4,2020
+Infinix,infinix zero 8,256,280000,E,6,2020
+Infinix,infinix zero ultra,128,150000,B,4,2020
+Infinix,infinix zero x pro,256,170000,C,6,2018
+Infinix,infinix zero x pro,32,60000,C,4,2018
+LG,lg g6,64,70000,F,4,2017
+LG,lg g6,128,80000,F,6,2017
+LG,lg g6,64,90000,F,4,2017
+LG,lg g7 thinq,128,110000,E,6,2018
+LG,lg g7 thinq,128,120000,E,6,2018
+LG,lg g8 thinq,256,140000,D,6,2019
+LG,lg g8 thinq,128,130000,D,6,2019
+LG,lg g8x thinq,32,45000,D,4,2019
+LG,lg k41s,64,50000,F,4,2020
+LG,lg k51s,64,55000,F,4,2020
+LG,lg k61,128,65000,F,6,2020
+LG,lg k61,128,120000,F,6,2020
+LG,lg k92 5g,64,70000,D,4,2020
+LG,lg stylo 6,64,90000,F,4,2020
+LG,lg v30,128,110000,F,6,2017
+LG,lg v30,128,100000,F,6,2017
+LG,lg v30s thinq,256,120000,F,6,2018
+LG,lg v30s thinq,64,130000,F,4,2018
+LG,lg v40 thinq,128,150000,E,6,2018
+LG,lg v40 thinq,256,170000,E,6,2018
+LG,lg v40 thinq,128,180000,E,6,2018
+LG,lg v50 thinq 5g,256,200000,D,6,2019
+LG,lg v50 thinq 5g,128,220000,D,6,2019
+LG,lg v60 thinq 5g,256,250000,C,6,2020
+LG,lg v60 thinq 5g,128,100000,C,6,2020
+LG,lg velvet 4g,128,125000,D,6,2020
+LG,lg velvet 5g,128,200000,C,6,2020
+LG,lg wing 5g,256,230000,C,6,2020
+Lenovo,lenovo legion phone duel 2,512,350000,B,8,2020
+Lenovo,lenovo legion phone duel 2,128,80000,B,8,2020
+Motorola ,motorola edge (2020),128,120000,D,8,2021
+Motorola ,motorola edge (2022),256,140000,C,12,2021
+Motorola ,motorola edge (2022),128,100000,C,8,2021
+Motorola ,motorola edge 20,256,120000,C,12,2021
+Motorola ,motorola edge 20,128,90000,C,8,2021
+Motorola ,motorola edge 20 fusion,128,80000,D,8,2021
+Motorola ,motorola edge 20 lite,128,130000,D,8,2022
+Motorola ,motorola edge 20 pro,256,150000,C,12,2022
+Motorola ,motorola edge 20 pro,128,140000,C,8,2022
+Motorola ,motorola edge 30,256,160000,B,12,2022
+Motorola ,motorola edge 30,128,120000,B,8,2022
+Motorola ,motorola edge 30 fusion,256,140000,B,12,2022
+Motorola ,motorola edge 30 fusion,64,110000,B,8,2022
+Motorola ,motorola edge 30 neo,128,130000,B,8,2022
+Motorola ,motorola edge 30 neo,128,170000,B,8,2022
+Motorola ,motorola edge 30 pro,256,190000,B,12,2022
+Motorola ,motorola edge 30 pro,128,200000,B,8,2022
+Motorola ,motorola edge 30 ultra,256,220000,B,12,2023
+Motorola ,motorola edge 30 ultra,512,240000,B,12,2023
+Motorola ,motorola edge 30 ultra,128,160000,B,8,2023
+Motorola ,motorola edge 40,256,180000,B,12,2023
+Motorola ,motorola edge 40,128,140000,B,8,2023
+Motorola ,motorola edge 40 fusion,256,160000,B,12,2023
+Motorola ,motorola edge 40 fusion,128,130000,B,8,2023
+Motorola ,motorola edge 40 neo,256,150000,B,12,2023
+Motorola ,motorola edge 40 neo,128,190000,B,8,2023
+Motorola ,motorola edge 40 pro,256,210000,B,12,2020
+Motorola ,motorola edge 40 pro,512,230000,B,12,2020
+Motorola ,motorola edge 40 pro,256,180000,B,12,2020
+Motorola ,motorola edge 50,128,135000,A,8,2020
+Motorola ,motorola edge 50 fusion,256,155000,A,12,2020
+Motorola ,motorola edge 50 fusion,512,175000,A,12,2020
+Motorola ,motorola edge 50 fusion,128,140000,A,8,2020
+Motorola ,motorola edge 50 neo,256,160000,A,12,2020
+Motorola ,motorola edge 50 neo,128,200000,A,8,2020
+Motorola ,motorola edge 50 pro,256,220000,A,12,2020
+Motorola ,motorola edge 50 pro,512,240000,A,12,2020
+Motorola ,motorola edge 50 pro,512,250000,A,12,2020
+Motorola ,motorola edge 50 ultra,1024,270000,A,12,2020
+Motorola ,motorola edge 50 ultra,128,195000,A,8,2020
+Motorola ,motorola edge 60 fusion,256,215000,A,12,2020
+Motorola ,motorola edge 60 fusion,256,230000,A,12,2020
+Motorola ,motorola edge 60 pro,512,250000,A,12,2020
+Motorola ,motorola edge 60 pro,512,260000,A,12,2020
+Motorola ,motorola edge 60 ultra,1024,280000,A,12,2020
+Motorola ,motorola edge 60 ultra,256,90000,A,12,2020
+Motorola ,motorola edge+ (2020),128,150000,D,8,2020
+Motorola ,motorola edge+ (2022),256,170000,B,12,2022
+Motorola ,motorola edge+ (2022),512,190000,B,12,2022
+Motorola ,motorola edge+ (2022),32,30000,B,2,2022
+Motorola ,motorola moto e13,64,35000,E,4,2023
+Motorola ,motorola moto e13,32,35000,E,2,2023
+Motorola ,motorola moto e20,64,40000,F,4,2021
+Motorola ,motorola moto e20,32,40000,F,2,2021
+Motorola ,motorola moto e22,64,45000,E,4,2022
+Motorola ,motorola moto e22,64,45000,E,4,2022
+Motorola ,motorola moto e22s,128,50000,E,6,2022
+Motorola ,motorola moto e22s,64,50000,E,4,2022
+Motorola ,motorola moto e40,128,55000,E,6,2021
+Motorola ,motorola moto e40,64,65000,E,4,2021
+Motorola ,motorola moto g13,128,75000,D,6,2023
+Motorola ,motorola moto g13,64,70000,D,4,2023
+Motorola ,motorola moto g14,128,80000,D,6,2023
+Motorola ,motorola moto g14,64,75000,D,4,2023
+Motorola ,motorola moto g23,128,85000,D,6,2023
+Motorola ,motorola moto g23,64,80000,D,4,2023
+Motorola ,motorola moto g32,128,90000,D,6,2022
+Motorola ,motorola moto g32,64,85000,D,4,2022
+Motorola ,motorola moto g34 5g,128,95000,C,6,2023
+Motorola ,motorola moto g34 5g,64,90000,C,4,2023
+Motorola ,motorola moto g53 5g,128,105000,C,6,2022
+Motorola ,motorola moto g53 5g,128,95000,C,6,2022
+Motorola ,motorola moto g54 5g,256,110000,C,8,2023
+Motorola ,motorola moto g54 5g,128,110000,C,6,2023
+Motorola ,motorola moto g73 5g,256,130000,C,8,2023
+Motorola ,motorola moto g73 5g,128,120000,C,6,2023
+Motorola ,motorola moto g84 5g,256,140000,B,8,2023
+Motorola ,motorola moto g84 5g,128,145000,B,8,2023
+Motorola ,motorola razr 40,256,165000,A,8,2023
+Motorola ,motorola razr 40,256,200000,A,8,2023
+Motorola ,motorola razr 40 ultra,512,230000,A,8,2023
+Motorola ,motorola razr 40 ultra,128,350000,A,8,2023
+One Plus,oneplus 10 pro,256,400000,B,12,2022
+One Plus,oneplus 10 pro,512,450000,B,16,2022
+One Plus,oneplus 10 pro,128,300000,B,8,2022
+One Plus,oneplus 10r,256,350000,B,12,2022
+One Plus,oneplus 10r,128,320000,B,8,2022
+One Plus,oneplus 10t,256,370000,B,16,2022
+One Plus,oneplus 10t,128,450000,B,8,2022
+One Plus,oneplus 11,256,500000,A,12,2023
+One Plus,oneplus 11,512,550000,A,16,2023
+One Plus,oneplus 11,128,400000,A,8,2023
+One Plus,oneplus 11r,256,450000,B,16,2023
+One Plus,oneplus 11r,256,550000,B,16,2023
+One Plus,oneplus 12,512,600000,A,16,2023
+One Plus,oneplus 12,1024,650000,A,24,2023
+One Plus,oneplus 12,128,500000,A,12,2023
+One Plus,oneplus 12r,256,550000,A,16,2024
+One Plus,oneplus 12r,16,40000,A,8,2024
+One Plus,oneplus 2,64,45000,F,3,2015
+One Plus,oneplus 2,64,50000,F,3,2015
+One Plus,oneplus 3,64,55000,F,6,2016
+One Plus,oneplus 3t,128,45000,F,8,2016
+One Plus,oneplus 3t,64,50000,F,6,2016
+One Plus,oneplus 5,128,55000,F,8,2017
+One Plus,oneplus 5,64,60000,F,6,2017
+One Plus,oneplus 5t,128,50000,F,8,2017
+One Plus,oneplus 5t,64,55000,F,6,2017
+One Plus,oneplus 6,128,60000,E,8,2018
+One Plus,oneplus 6,256,65000,E,8,2018
+One Plus,oneplus 6,128,55000,E,8,2018
+One Plus,oneplus 6t,256,60000,E,8,2018
+One Plus,oneplus 6t,512,65000,E,12,2018
+One Plus,oneplus 6t,256,70000,E,8,2018
+One Plus,oneplus 6t mclaren,128,60000,E,10,2018
+One Plus,oneplus 7,256,65000,D,8,2019
+One Plus,oneplus 7,128,70000,D,6,2019
+One Plus,oneplus 7 pro,256,75000,D,8,2019
+One Plus,oneplus 7 pro,512,65000,D,12,2019
+One Plus,oneplus 7 pro,256,70000,D,8,2019
+One Plus,oneplus 7 pro 5g,128,75000,D,12,2019
+One Plus,oneplus 7t,256,80000,D,8,2019
+One Plus,oneplus 7t,128,70000,D,8,2019
+One Plus,oneplus 7t pro,256,75000,D,12,2019
+One Plus,oneplus 7t pro,256,80000,D,12,2019
+One Plus,oneplus 7t pro mclaren,128,85000,D,12,2019
+One Plus,oneplus 8,256,120000,C,12,2020
+One Plus,oneplus 8,128,80000,C,8,2020
+One Plus,oneplus 8 pro,256,85000,C,12,2020
+One Plus,oneplus 8 pro,128,90000,C,12,2020
+One Plus,oneplus 8t,256,80000,C,12,2020
+One Plus,oneplus 8t,128,85000,C,8,2020
+One Plus,oneplus 9,256,90000,B,12,2021
+One Plus,oneplus 9,128,95000,B,8,2021
+One Plus,oneplus 9 pro,256,100000,B,12,2021
+One Plus,oneplus 9 pro,128,110000,B,12,2021
+One Plus,oneplus 9rt,256,120000,B,12,2021
+One Plus,oneplus 9rt,128,130000,B,8,2021
+One Plus,oneplus nord,256,140000,D,12,2020
+One Plus,oneplus nord,128,110000,D,8,2020
+One Plus,oneplus nord 2,256,150000,C,12,2021
+One Plus,oneplus nord 2,128,120000,C,8,2021
+One Plus,oneplus nord 2t,256,130000,C,12,2022
+One Plus,oneplus nord 2t,128,173000,C,8,2022
+One Plus,oneplus nord 3,256,90000,B,16,2023
+One Plus,oneplus nord 3,128,95000,B,8,2023
+One Plus,oneplus nord ce 2,256,100000,D,12,2022
+One Plus,oneplus nord ce 2,64,105000,D,8,2022
+One Plus,oneplus nord ce 2 lite,128,105000,D,8,2022
+One Plus,oneplus nord ce 2 lite,128,110000,D,8,2022
+One Plus,oneplus nord ce 3,256,115000,B,8,2023
+One Plus,oneplus nord ce 3,128,120000,B,8,2023
+One Plus,oneplus nord ce 3 lite,256,110000,B,8,2023
+One Plus,oneplus nord ce 3 lite,128,115000,B,6,2023
+One Plus,oneplus nord ce 4,256,120000,A,8,2024
+One Plus,oneplus nord ce 4,16,35000,A,6,2024
+One Plus,oneplus one,64,120000,F,3,2014
+One Plus,oneplus one,256,450000,F,3,2014
+One Plus,oneplus open,512,500000,A,16,2023
+One Plus,oneplus open,256,150000,A,12,2023
+Oppo,find x5,512,150000,B,12,2022
+Oppo,find x5,256,150000,B,12,2023
+Oppo,find x5 pro,512,170000,B,12,2023
+Oppo,find x5 pro,512,130000,B,12,2023
+Oppo,find x6,256,180000,B,12,2023
+Oppo,find x6,256,140000,B,12,2024
+Oppo,find x6 pro,512,150000,B,12,2024
+Oppo,find x6 pro,256,160000,B,12,2024
+Oppo,find x7,512,170000,A,12,2024
+Oppo,find x7,1024,180000,A,12,2024
+Oppo,find x7,256,200000,A,12,2024
+Oppo,find x7 ultra,512,210000,A,12,2025
+Oppo,find x7 ultra,1024,220000,A,12,2025
+Oppo,find x7 ultra,256,250000,A,12,2025
+Oppo,find x8,512,150000,A,12,2025
+Oppo,find x8,1024,80000,A,12,2025
+Oppo,find x8,256,85000,A,12,2025
+Oppo,find x8 ultra,512,90000,A,12,2018
+Oppo,find x8 ultra,1024,100000,A,3,2018
+Oppo,find x8 ultra,32,110000,A,4,2019
+Oppo,oppo a1,64,100000,E,3,2019
+Oppo,oppo a1,32,110000,E,4,2019
+Oppo,oppo a12,64,120000,F,4,2019
+Oppo,oppo a12,64,120000,F,3,2019
+Oppo,oppo a12e,32,130000,F,4,2019
+Oppo,oppo a15,64,140000,F,4,2019
+Oppo,oppo a15,64,140000,F,6,2019
+Oppo,oppo a15s,128,150000,F,3,2019
+Oppo,oppo a15s,32,160000,F,4,2019
+Oppo,oppo a16,64,90000,E,3,2019
+Oppo,oppo a16,32,95000,E,4,2019
+Oppo,oppo a16k,64,100000,E,4,2019
+Oppo,oppo a16k,64,85000,E,6,2019
+Oppo,oppo a16s,128,90000,E,4,2019
+Oppo,oppo a16s,64,95000,E,4,2019
+Oppo,oppo a17,64,100000,E,4,2019
+Oppo,oppo a17k,64,80000,E,6,2018
+Oppo,oppo a18,128,85000,D,3,2018
+Oppo,oppo a18,32,100000,D,6,2018
+Oppo,oppo a1k,128,110000,F,6,2018
+Oppo,oppo a3,128,120000,A,8,2018
+Oppo,oppo a3 5g,256,130000,A,8,2018
+Oppo,oppo a3 5g,256,35000,A,8,2021
+Oppo,oppo a3 pro 5g,512,40000,A,4,2021
+Oppo,oppo a3 pro 5g,64,45000,A,6,2021
+Oppo,oppo a31 (2020),128,450000,F,4,2021
+Oppo,oppo a31 (2020),64,500000,F,6,2018
+Oppo,oppo a38,128,550000,D,3,2018
+Oppo,oppo a38,16,600000,D,3,2018
+Oppo,oppo a3s,32,400000,F,4,2018
+Oppo,oppo a3s,64,420000,F,6,2018
+Oppo,oppo a3x 4g,128,440000,B,3,2018
+Oppo,oppo a3x 4g,32,35000,B,4,2018
+Oppo,oppo a5,64,40000,F,4,2018
+Oppo,oppo a5,64,45000,F,6,2018
+Oppo,oppo a5,128,50000,F,4,2018
+Oppo,oppo a5,64,40000,F,6,2018
+Oppo,oppo a5 (2020),128,45000,F,6,2018
+Oppo,oppo a5 (2020),128,50000,F,8,2018
+Oppo,oppo a5 5g,256,55000,D,6,2018
+Oppo,oppo a5 5g,128,50000,D,8,2018
+Oppo,oppo a5 pro,256,55000,A,6,2018
+Oppo,oppo a5 pro,128,60000,A,8,2023
+Oppo,oppo a5 pro 5g,256,65000,A,4,2023
+Oppo,oppo a5 pro 5g,64,420000,A,6,2023
+Oppo,oppo a52,128,440000,F,4,2023
+Oppo,oppo a52,64,460000,F,6,2023
+Oppo,oppo a53,128,430000,E,4,2023
+Oppo,oppo a53,64,450000,E,6,2023
+Oppo,oppo a53 5g,128,470000,E,4,2023
+Oppo,oppo a53 5g,64,490000,E,6,2023
+Oppo,oppo a53s,128,450000,E,6,2023
+Oppo,oppo a53s,128,470000,E,4,2023
+Oppo,oppo a53s 5g,64,490000,E,6,2023
+Oppo,oppo a54,128,510000,E,4,2023
+Oppo,oppo a54,64,480000,E,6,2023
+Oppo,oppo a54 5g,128,500000,E,4,2023
+Oppo,oppo a54 5g,64,520000,E,6,2023
+Oppo,oppo a55,128,540000,D,4,2023
+Oppo,oppo a55,64,500000,D,6,2023
+Oppo,oppo a55 5g,128,520000,D,4,2023
+Oppo,oppo a55 5g,64,540000,D,6,2023
+Oppo,oppo a57,128,560000,D,4,2023
+Oppo,oppo a57,64,550000,D,6,2023
+Oppo,oppo a57s,128,570000,D,6,2023
+Oppo,oppo a57s,128,590000,D,8,2018
+Oppo,oppo a58,256,610000,C,4,2018
+Oppo,oppo a58,64,600000,C,6,2018
+Oppo,oppo a5i,128,620000,B,6,2018
+Oppo,oppo a5i,128,640000,B,8,2018
+Oppo,oppo a5i pro,256,660000,B,6,2018
+Oppo,oppo a5i pro,128,650000,B,8,2018
+Oppo,oppo a5i pro 5g,256,670000,B,4,2018
+Oppo,oppo a5i pro 5g,64,690000,B,6,2018
+Oppo,oppo a5x,128,710000,D,8,2018
+Oppo,oppo a5x,512,45000,D,8,2018
+Oppo,oppo a6,512,50000,B,8,2018
+Oppo,oppo a6 pro,512,55000,B,8,2018
+Oppo,oppo a6 pro 5g,1024,60000,B,6,2018
+Oppo,oppo a6 pro 5g,128,65000,B,8,2018
+Oppo,oppo a6x,256,50000,B,6,2018
+Oppo,oppo a6x,128,55000,B,8,2018
+Oppo,oppo a6x 5g,256,60000,B,3,2018
+Oppo,oppo a6x 5g,32,65000,B,4,2025
+Oppo,oppo a7,64,40000,F,3,2025
+Oppo,oppo a7,16,45000,F,3,2018
+Oppo,oppo a71,16,48000,F,3,2018
+Oppo,oppo a71 (2018),32,52000,F,4,2017
+Oppo,oppo a71 (2018),64,55000,F,6,2018
+Oppo,oppo a72,128,60000,E,6,2018
+Oppo,oppo a72,128,65000,E,6,2020
+Oppo,oppo a72 5g,128,70000,E,4,2020
+Oppo,oppo a74,64,75000,D,6,2020
+Oppo,oppo a74 5g,128,80000,D,4,2021
+Oppo,oppo a74 5g,64,75000,D,6,2021
+Oppo,oppo a76,128,80000,D,4,2021
+Oppo,oppo a76,64,85000,D,6,2022
+Oppo,oppo a77 5g,128,90000,C,6,2022
+Oppo,oppo a77 5g,128,85000,C,8,2022
+Oppo,oppo a78,256,90000,C,6,2022
+Oppo,oppo a78,128,95000,C,8,2023
+Oppo,oppo a78 5g,256,100000,C,6,2023
+Oppo,oppo a78 5g,128,100000,C,8,2023
+Oppo,oppo a79 5g,256,95000,B,4,2023
+Oppo,oppo a79 5g,64,50000,B,6,2023
+Oppo,oppo a7n,128,55000,F,3,2023
+Oppo,oppo a8,32,45000,F,4,2019
+Oppo,oppo a83,64,50000,F,4,2019
+Oppo,oppo a83,64,55000,F,6,2018
+Oppo,oppo a83 pro,128,60000,F,8,2018
+Oppo,oppo a9 (2020),256,65000,F,6,2018
+Oppo,oppo a9 (2020),128,70000,F,6,2019
+Oppo,oppo a91,128,75000,E,8,2019
+Oppo,oppo a92,256,80000,E,6,2019
+Oppo,oppo a92,128,85000,E,8,2020
+Oppo,oppo a92s 5g,256,90000,E,6,2020
+Oppo,oppo a92s 5g,128,85000,E,6,2020
+Oppo,oppo a93,128,90000,D,8,2020
+Oppo,oppo a93 5g,256,95000,D,6,2020
+Oppo,oppo a93 5g,128,95000,D,6,2021
+Oppo,oppo a94,128,100000,D,8,2021
+Oppo,oppo a94 5g,256,105000,D,6,2021
+Oppo,oppo a94 5g,128,100000,D,6,2021
+Oppo,oppo a95,128,105000,C,8,2021
+Oppo,oppo a95 5g,256,110000,C,6,2021
+Oppo,oppo a95 5g,128,105000,C,8,2021
+Oppo,oppo a96,256,110000,C,6,2021
+Oppo,oppo a96,128,110000,C,8,2022
+Oppo,oppo a97 5g,256,115000,B,6,2022
+Oppo,oppo a97 5g,128,120000,B,8,2022
+Oppo,oppo a98 5g,256,120000,B,4,2022
+Oppo,oppo a98 5g,64,65000,B,6,2023
+Oppo,oppo f11,128,70000,F,4,2023
+Oppo,oppo f11,64,75000,F,6,2019
+Oppo,oppo f11 pro,128,80000,F,6,2019
+Oppo,oppo f11 pro,128,70000,F,6,2019
+Oppo,oppo f15,128,80000,F,8,2019
+Oppo,oppo f17,256,75000,E,6,2020
+Oppo,oppo f17,128,85000,E,6,2020
+Oppo,oppo f17 pro,128,90000,E,6,2020
+Oppo,oppo f19,128,95000,D,8,2020
+Oppo,oppo f19 pro,256,100000,D,6,2021
+Oppo,oppo f19 pro,128,110000,D,6,2021
+Oppo,oppo f19 pro+ 5g,128,110000,D,6,2021
+Oppo,oppo f21 pro (4g/5g),128,115000,C,8,2021
+Oppo,oppo f23,256,120000,B,8,2019
+Oppo,oppo f23,128,200000,B,12,2019
+Oppo,oppo find x2,256,220000,D,8,2019
+Oppo,oppo find x2,128,150000,D,12,2019
+Oppo,oppo find x2 lite,256,180000,C,12,2020
+Oppo,oppo find x2 neo,256,250000,C,12,2020
+Oppo,oppo find x2 pro,512,280000,C,8,2020
+Oppo,oppo find x2 pro,128,300000,C,12,2020
+Oppo,oppo find x3,256,320000,C,8,2020
+Oppo,oppo find x3,128,200000,C,12,2020
+Oppo,oppo find x3 lite,256,250000,B,12,2028
+Oppo,oppo find x3 neo,256,350000,B,12,2028
+Oppo,oppo find x3 pro,512,380000,B,8,2028
+Oppo,oppo find x3 pro,128,180000,B,8,2028
+Oppo,oppo reno 10,256,200000,B,8,2028
+Oppo,oppo reno 10,256,220000,B,8,2029
+Oppo,oppo reno 10 pro,256,240000,B,8,2029
+Oppo,oppo reno 10 pro+,512,260000,B,8,2029
+Oppo,oppo reno 10 pro+,128,250000,B,8,2029
+Oppo,oppo reno 11,256,270000,A,8,2030
+Oppo,oppo reno 11,256,300000,A,8,2030
+Oppo,oppo reno 11 pro,512,330000,A,8,2030
+Oppo,oppo reno 11 pro,128,320000,A,8,2030
+Oppo,oppo reno 12,256,350000,A,8,2030
+Oppo,oppo reno 12,512,380000,A,8,2030
+Oppo,oppo reno 12,256,200000,A,8,2030
+Oppo,oppo reno 12 f,512,220000,A,8,2030
+Oppo,oppo reno 12 f,256,230000,A,8,2030
+Oppo,oppo reno 12 fs,512,250000,A,8,2031
+Oppo,oppo reno 12 fs,256,400000,A,8,2031
+Oppo,oppo reno 12 pro,512,430000,A,8,2031
+Oppo,oppo reno 12 pro,128,250000,A,8,2031
+Oppo,oppo reno 13 f,256,280000,A,8,2031
+Oppo,oppo reno 13 f,512,310000,A,8,2031
+Oppo,oppo reno 13 f,128,280000,F,8,2020
+Oppo,oppo reno 13 fs,256,310000,C,8,2024
+Oppo,oppo reno 13 fs,512,340000,C,8,2024
+Oppo,oppo reno 13 fs,128,280000,C,8,2024
+Oppo,oppo reno 2f,128,300000,C,8,2025
+Oppo,oppo reno 6,128,350000,C,8,2025
+Oppo,oppo reno 6 pro,256,400000,C,8,2025
+Oppo,oppo reno 6 pro,128,450000,A,8,2026
+Oppo,oppo reno 7,256,500000,A,8,2026
+Oppo,oppo reno 7,256,550000,A,8,2026
+Oppo,oppo reno 7 pro,128,600000,C,8,2021
+Oppo,oppo reno 8,256,620000,B,8,2022
+Oppo,oppo reno 8,256,650000,B,8,2022
+Oppo,oppo reno 8 pro,128,120000,B,12,2022
+Realme,realme 10 pro,256,140000,B,6,2022
+Realme,realme 10 pro,128,150000,B,6,2022
+Realme,realme 10 pro+,256,170000,B,8,2022
+Realme,realme 10 pro+,128,180000,B,8,2022
+Realme,realme 11 pro,256,200000,B,8,2023
+Realme,realme 11 pro,256,220000,B,8,2023
+Realme,realme 11 pro+,512,240000,B,12,2023
+Realme,realme 11 pro+,1024,260000,B,12,2023
+Realme,realme 11 pro+,128,280000,B,12,2023
+Realme,realme 12,256,300000,A,8,2024
+Realme,realme 12,128,320000,A,8,2024
+Realme,realme 12 pro,256,340000,A,8,2024
+Realme,realme 12 pro,128,360000,A,8,2024
+Realme,realme 12 pro+,256,380000,A,12,2024
+Realme,realme 12 pro+,256,400000,A,12,2024
+Realme,realme 12+ 5g,512,420000,A,8,2024
+Realme,realme 12+ 5g,128,250000,A,8,2024
+Realme,realme 9 pro+,256,280000,C,8,2022
+Realme,realme 9 pro+,128,300000,C,8,2022
+Realme,realme gt 2,256,320000,B,12,2022
+Realme,realme gt 2,128,350000,B,12,2022
+Realme,realme gt 2 pro,256,380000,B,12,2022
+Realme,realme gt 2 pro,128,400000,B,12,2022
+Realme,realme gt 3,256,450000,A,12,2023
+Realme,realme gt 3,512,500000,A,12,2023
+Realme,realme gt 3,1024,550000,A,16,2023
+Realme,realme gt 3,256,600000,A,16,2023
+Realme,realme gt 5,512,650000,A,12,2023
+Realme,realme gt 5,1024,700000,A,12,2023
+Realme,realme gt 5,256,750000,A,16,2023
+Realme,realme gt 5 pro,512,800000,A,12,2023
+Realme,realme gt 5 pro,1024,850000,A,12,2023
+Realme,realme gt 5 pro,256,900000,A,16,2021
+Realme,realme gt 6,512,950000,A,12,2019
+Realme,realme gt 6,1024,1000000,A,8,2019
+Realme,realme gt 6,256,250000,A,6,2019
+Samsung,galaxy flip,256,280000,E,8,2019
+Samsung,galaxy flip 5g,128,120000,E,8,2021
+Samsung,galaxy a16 (4g),256,140000,B,6,2010
+Samsung,galaxy a16 (4g),256,150000,B,12,2010
+Samsung,galaxy a16 (5g),128,130000,B,8,2010
+Samsung,galaxy a16 5g,512,450000,B,6,2010
+Samsung,galaxy fold,256,300000,F,8,2010
+Samsung,galaxy note 10,128,250000,E,8,2020
+Samsung,galaxy note 10 lite,256,280000,E,12,2020
+Samsung,galaxy note 10 lite,256,350000,E,8,2020
+Samsung,galaxy note 10 plus,512,400000,E,6,2020
+Samsung,galaxy note 10 plus,256,420000,E,8,2020
+Samsung,galaxy note 20,128,500000,D,12,2020
+Samsung,galaxy note 20 ultra,256,550000,D,6,2020
+Samsung,galaxy note 20 ultra,512,600000,D,8,2020
+Samsung,galaxy note 20 ultra,128,350000,D,6,2020
+Samsung,galaxy s20,256,400000,D,8,2020
+Samsung,galaxy s20,128,320000,D,6,2020
+Samsung,galaxy s20 fe,256,360000,D,8,2020
+Samsung,galaxy s20 fe,128,500000,D,12,2020
+Samsung,galaxy s20 ultra,256,550000,D,6,2020
+Samsung,galaxy s20 ultra,512,600000,D,8,2021
+Samsung,galaxy s20 ultra,128,380000,D,12,2021
+Samsung,galaxy s20+,256,430000,D,6,2021
+Samsung,galaxy s20+,512,480000,D,8,2021
+Samsung,galaxy s20+,128,400000,D,12,2021
+Samsung,galaxy s21,256,450000,C,6,2021
+Samsung,galaxy s21,512,500000,C,8,2021
+Samsung,galaxy s21,128,380000,C,12,2021
+Samsung,galaxy s21 fe,256,420000,C,6,2021
+Samsung,galaxy s21 fe,512,460000,C,8,2021
+Samsung,galaxy s21 fe,128,550000,C,12,2021
+Samsung,galaxy s21 ultra,256,600000,C,6,2021
+Samsung,galaxy s21 ultra,512,650000,C,8,2022
+Samsung,galaxy s21 ultra,128,450000,C,12,2022
+Samsung,galaxy s21+,256,500000,C,6,2022
+Samsung,galaxy s21+,512,550000,C,8,2022
+Samsung,galaxy s21+,128,500000,C,12,2022
+Samsung,galaxy s22,256,550000,B,6,2022
+Samsung,galaxy s22,512,600000,B,8,2022
+Samsung,galaxy s22,128,650000,B,12,2022
+Samsung,galaxy s22 ultra,256,700000,B,6,2022
+Samsung,galaxy s22 ultra,512,750000,B,8,2023
+Samsung,galaxy s22 ultra,128,550000,B,12,2023
+Samsung,galaxy s22+,256,600000,B,6,2023
+Samsung,galaxy s22+,512,650000,B,8,2023
+Samsung,galaxy s22+,128,600000,B,12,2023
+Samsung,galaxy s23,256,650000,A,12,2023
+Samsung,galaxy s23,512,700000,A,6,2023
+Samsung,galaxy s23,1024,750000,A,8,2023
+Samsung,galaxy s23,128,550000,A,12,2023
+Samsung,galaxy s23 fe,256,600000,B,12,2023
+Samsung,galaxy s23 fe,512,650000,B,6,2023
+Samsung,galaxy s23 fe,1024,700000,B,8,2023
+Samsung,galaxy s23 fe,128,800000,B,12,2023
+Samsung,galaxy s23 ultra,256,850000,A,12,2023
+Samsung,galaxy s23 ultra,512,900000,A,6,2023
+Samsung,galaxy s23 ultra,1024,950000,A,8,2023
+Samsung,galaxy s23 ultra,128,700000,A,12,2024
+Samsung,galaxy s23+,256,750000,A,12,2024
+Samsung,galaxy s23+,512,800000,A,6,2024
+Samsung,galaxy s23+,1024,850000,A,8,2024
+Samsung,galaxy s23+,128,800000,A,12,2024
+Samsung,galaxy s24,256,850000,A,12,2024
+Samsung,galaxy s24,512,900000,A,6,2024
+Samsung,galaxy s24,1024,950000,A,8,2024
+Samsung,galaxy s24,128,1000000,A,12,2024
+Samsung,galaxy s24 ultra,256,1050000,A,12,2024
+Samsung,galaxy s24 ultra,512,1100000,A,6,2024
+Samsung,galaxy s24 ultra,1024,1150000,A,8,2024
+Samsung,galaxy s24 ultra,128,900000,A,12,2021
+Samsung,galaxy s24+,256,950000,A,12,2021
+Samsung,galaxy s24+,512,1000000,A,6,2021
+Samsung,galaxy s24+,1024,1050000,A,8,2021
+Samsung,galaxy s24+,128,600000,A,6,2021
+Samsung,galaxy z flip 3,256,650000,D,8,2021
+Samsung,galaxy z flip 3,128,700000,D,12,2021
+Samsung,galaxy z flip 4,256,750000,C,8,2021
+Samsung,galaxy z flip 4,512,800000,C,12,2021
+Samsung,galaxy z flip 4,256,850000,C,8,2021
+Samsung,galaxy z flip 5,512,900000,B,12,2021
+Samsung,galaxy z flip 5,256,950000,B,8,2021
+Samsung,galaxy z flip 6,512,1000000,A,12,2021
+Samsung,galaxy z flip 6,256,750000,A,8,2021
+Samsung,galaxy z fold 2,512,800000,E,12,2021
+Samsung,galaxy z fold 2,256,850000,E,8,2021
+Samsung,galaxy z fold 3,512,900000,D,12,2021
+Samsung,galaxy z fold 3,256,950000,D,12,2021
+Samsung,galaxy z fold 4,512,1000000,C,8,2021
+Samsung,galaxy z fold 4,1024,1050000,C,12,2021
+Samsung,galaxy z fold 4,256,1100000,C,12,2021
+Samsung,galaxy z fold 5,512,1150000,B,8,2021
+Samsung,galaxy z fold 5,1024,1200000,B,12,2021
+Samsung,galaxy z fold 5,256,1250000,B,12,2021
+Samsung,galaxy z fold 6,512,1300000,A,2,2021
+Samsung,galaxy z fold 6,1024,1350000,A,2,2021
+Samsung,galaxy z fold 6,32,45000,A,2,2021
+Samsung,Samsung galaxy a01,16,40000,F,2,2021
+Samsung,Samsung galaxy a01 core,32,42000,F,4,2021
+Samsung,Samsung galaxy a01 core,32,50000,F,2,2021
+Samsung,Samsung galaxy a02,64,55000,F,4,2021
+Samsung,Samsung galaxy a02,32,52000,F,2,2021
+Samsung,Samsung galaxy a02s,64,57000,F,4,2021
+Samsung,Samsung galaxy a02s,32,60000,F,6,2021
+Samsung,Samsung galaxy a03,64,65000,E,2,2021
+Samsung,Samsung galaxy a03,128,70000,E,2,2021
+Samsung,Samsung galaxy a03,32,45000,E,4,2021
+Samsung,Samsung galaxy a03 core,32,62000,F,6,2021
+Samsung,Samsung galaxy a03s,64,67000,E,2,2021
+Samsung,Samsung galaxy a03s,128,72000,E,4,2021
+Samsung,Samsung galaxy a03s,32,65000,E,6,2021
+Samsung,Samsung galaxy a04,64,70000,D,2,2021
+Samsung,Samsung galaxy a04,128,75000,D,4,2021
+Samsung,Samsung galaxy a04,32,68000,D,2,2021
+Samsung,Samsung galaxy a04e,64,73000,D,4,2021
+Samsung,Samsung galaxy a04e,32,67000,D,6,2021
+Samsung,Samsung galaxy a04s,64,72000,D,4,2021
+Samsung,Samsung galaxy a04s,128,77000,D,6,2021
+Samsung,Samsung galaxy a04s,64,80000,D,4,2021
+Samsung,Samsung galaxy a05,128,85000,C,6,2021
+Samsung,Samsung galaxy a05,64,82000,C,4,2020
+Samsung,Samsung galaxy a05s,128,87000,C,6,2020
+Samsung,Samsung galaxy a05s,64,90000,C,4,2019
+Samsung,Samsung galaxy a06,128,95000,B,6,2019
+Samsung,Samsung galaxy a06,64,100000,B,2,2019
+Samsung,Samsung galaxy a07 2025 (a confirmer),128,110000,A,2,2019
+Samsung,Samsung galaxy a07 2025 (a confirmer),32,55000,A,4,2019
+Samsung,Samsung galaxy a10,32,58000,F,2,2019
+Samsung,Samsung galaxy a10s,64,63000,F,4,2019
+Samsung,Samsung galaxy a10s,32,60000,F,2,2019
+Samsung,Samsung galaxy a11,64,65000,F,4,2019
+Samsung,Samsung galaxy a11,32,70000,F,6,2019
+Samsung,Samsung galaxy a12,64,75000,E,2,2019
+Samsung,Samsung galaxy a12,128,80000,E,4,2019
+Samsung,Samsung galaxy a12,32,72000,E,6,2019
+Samsung,Samsung galaxy a12 nacho,64,77000,E,2,2019
+Samsung,Samsung galaxy a12 nacho,128,82000,E,4,2019
+Samsung,Samsung galaxy a12 nacho,32,78000,E,6,2019
+Samsung,Samsung galaxy a13 4g,64,83000,D,4,2019
+Samsung,Samsung galaxy a13 4g,128,88000,D,6,2019
+Samsung,Samsung galaxy a13 4g,64,85000,D,4,2019
+Samsung,Samsung galaxy a13 5g,128,90000,D,6,2019
+Samsung,Samsung galaxy a13 5g,64,95000,D,4,2019
+Samsung,Samsung galaxy a14 4g,128,100000,C,6,2019
+Samsung,Samsung galaxy a14 4g,64,97000,C,6,2019
+Samsung,Samsung galaxy a14 5g,128,102000,C,8,2019
+Samsung,Samsung galaxy a14 5g,128,110000,C,6,2019
+Samsung,Samsung galaxy a15 4g,256,120000,B,8,2019
+Samsung,Samsung galaxy a15 4g,128,115000,B,2,2019
+Samsung,Samsung galaxy a15 5g,256,125000,B,2,2019
+Samsung,Samsung galaxy a15 5g,32,65000,B,4,2019
+Samsung,Samsung galaxy a20,32,68000,F,2,2019
+Samsung,Samsung galaxy a20s,64,73000,F,4,2019
+Samsung,Samsung galaxy a20s,32,70000,F,2,2019
+Samsung,Samsung galaxy a21,64,75000,F,4,2019
+Samsung,Samsung galaxy a21,32,72000,F,6,2019
+Samsung,Samsung galaxy a21s,64,77000,F,4,2019
+Samsung,Samsung galaxy a21s,128,82000,F,6,2019
+Samsung,Samsung galaxy a21s,64,85000,F,4,2019
+Samsung,Samsung galaxy a22 4g,128,90000,E,6,2019
+Samsung,Samsung galaxy a22 4g,64,87000,E,4,2019
+Samsung,Samsung galaxy a22 5g,128,92000,D,6,2019
+Samsung,Samsung galaxy a22 5g,64,95000,D,4,2019
+Samsung,Samsung galaxy a23 4g,128,100000,D,6,2019
+Samsung,Samsung galaxy a23 4g,64,97000,D,4,2019
+Samsung,Samsung galaxy a23 5g,128,102000,D,6,2019
+Samsung,Samsung galaxy a23 5g,64,105000,D,6,2017
+Samsung,Samsung galaxy a24 4g,128,110000,C,8,2017
+Samsung,Samsung galaxy a24 4g,128,120000,C,2,2019
+Samsung,Samsung galaxy a25 5g,256,130000,B,2,2019
+Samsung,Samsung galaxy a25 5g,16,55000,B,2,2019
+Samsung,Samsung galaxy a3 (2017),32,60000,F,4,2019
+Samsung,Samsung galaxy a3 (2017),32,75000,F,2,2019
+Samsung,Samsung galaxy a30,64,80000,F,4,2019
+Samsung,Samsung galaxy a30,32,78000,F,6,2019
+Samsung,Samsung galaxy a30s,64,83000,F,4,2019
+Samsung,Samsung galaxy a30s,128,88000,F,6,2019
+Samsung,Samsung galaxy a30s,64,85000,F,4,2019
+Samsung,Samsung galaxy a31,128,90000,E,6,2019
+Samsung,Samsung galaxy a31,64,95000,E,4,2019
+Samsung,Samsung galaxy a32 4g,128,100000,E,6,2019
+Samsung,Samsung galaxy a32 4g,64,97000,E,6,2019
+Samsung,Samsung galaxy a32 5g,128,102000,D,8,2019
+Samsung,Samsung galaxy a32 5g,128,110000,D,6,2019
+Samsung,Samsung galaxy a33 5g,256,120000,C,8,2019
+Samsung,Samsung galaxy a33 5g,128,130000,C,6,2019
+Samsung,Samsung galaxy a34 5g,256,140000,B,8,2017
+Samsung,Samsung galaxy a34 5g,128,150000,B,4,2019
+Samsung,Samsung galaxy a35 5g,256,160000,A,2,2019
+Samsung,Samsung galaxy a35 5g,64,95000,A,4,2019
+Samsung,Samsung galaxy a40,32,70000,F,6,2019
+Samsung,Samsung galaxy a5 (2017),64,100000,F,4,2020
+Samsung,Samsung galaxy a50,128,110000,F,6,2020
+Samsung,Samsung galaxy a50,64,105000,F,4,2020
+Samsung,Samsung galaxy a50s,128,115000,F,6,2020
+Samsung,Samsung galaxy a50s,64,120000,F,8,2020
+Samsung,Samsung galaxy a51 4g,128,130000,E,6,2021
+Samsung,Samsung galaxy a51 4g,256,140000,E,8,2021
+Samsung,Samsung galaxy a51 4g,128,135000,E,6,2021
+Samsung,Samsung galaxy a51 5g,256,145000,E,8,2021
+Samsung,Samsung galaxy a51 5g,128,150000,E,6,2021
+Samsung,Samsung galaxy a52 4g,256,160000,D,8,2021
+Samsung,Samsung galaxy a52 4g,128,155000,D,6,2022
+Samsung,Samsung galaxy a52 5g,256,165000,D,8,2022
+Samsung,Samsung galaxy a52 5g,128,170000,D,6,2023
+Samsung,Samsung galaxy a52s 5g,256,180000,C,8,2020
+Samsung,Samsung galaxy a52s 5g,128,190000,C,6,2020
+Samsung,Samsung galaxy a53 5g,256,200000,B,8,2020
+Samsung,Samsung galaxy a53 5g,128,210000,B,2,2020
+Samsung,Samsung galaxy a54 5g,256,220000,A,4,2020
+Samsung,Samsung galaxy a54 5g,32,80000,A,2,2021
+Samsung,Samsung galaxy a6 (2018),64,85000,F,4,2021
+Samsung,Samsung galaxy a6 (2018),32,82000,F,4,2021
+Samsung,Samsung galaxy a6+ (2018),64,87000,F,6,2021
+Samsung,Samsung galaxy a6+ (2018),64,90000,F,2,2021
+Samsung,Samsung galaxy a60,128,95000,F,4,2021
+Samsung,Samsung galaxy a60,32,75000,F,6,2021
+Samsung,Samsung galaxy a7 (2017),64,85000,F,6,2021
+Samsung,Samsung galaxy a7 (2018),128,90000,F,6,2021
+Samsung,Samsung galaxy a7 (2018),128,100000,F,6,2021
+Samsung,Samsung galaxy a70,128,105000,F,8,2021
+Samsung,Samsung galaxy a70s,128,110000,F,6,2021
+Samsung,Samsung galaxy a71 4g,256,120000,E,8,2021
+Samsung,Samsung galaxy a71 4g,128,115000,E,6,2021
+Samsung,Samsung galaxy a71 5g,256,125000,E,8,2021
+Samsung,Samsung galaxy a71 5g,128,130000,E,6,2021
+Samsung,Samsung galaxy a72 4g,256,140000,D,8,2021
+Samsung,Samsung galaxy a72 4g,128,135000,D,6,2021
+Samsung,Samsung galaxy a72 5g,256,145000,D,8,2021
+Samsung,Samsung galaxy a72 5g,128,150000,D,6,2021
+Samsung,Samsung galaxy a73 5g,256,160000,B,2,2021
+Samsung,Samsung galaxy a73 5g,128,155000,B,4,2021
+Samsung,Samsung galaxy a74 (rare),32,90000,B,2,2021
+Samsung,Samsung galaxy a8 (2018),64,95000,F,4,2021
+Samsung,Samsung galaxy a8 (2018),32,92000,F,6,2021
+Samsung,Samsung galaxy a8+ (2018),64,97000,F,6,2021
+Samsung,Samsung galaxy a8+ (2018),128,140000,F,6,2021
+Samsung,Samsung galaxy a80,128,130000,E,12,2021
+Samsung,Samsung galaxy a9 (2018),128,250000,F,8,2021
+Samsung,Samsung galaxy s10,512,300000,E,12,2021
+Samsung,Samsung galaxy s10,256,320000,E,6,2021
+Samsung,Samsung galaxy s10 5g,512,350000,E,12,2021
+Samsung,Samsung galaxy s10 5g,128,220000,E,6,2021
+Samsung,Samsung galaxy s10 lite,512,270000,E,12,2021
+Samsung,Samsung galaxy s10 lite,128,280000,E,12,2021
+Samsung,Samsung galaxy s10+,512,330000,E,6,2021
+Samsung,Samsung galaxy s10+,1024,380000,E,8,2021
+Samsung,Samsung galaxy s10+,128,230000,E,4,2021
+Samsung,Samsung galaxy s10e,256,260000,E,4,2021
+Samsung,Samsung galaxy s10e,64,120000,E,4,2021
+Samsung,Samsung galaxy s8,64,125000,F,6,2021
+Samsung,Samsung galaxy s8 active,64,130000,F,4,2021
+Samsung,Samsung galaxy s8+,128,135000,F,6,2017
+Samsung,Samsung galaxy s8+,64,140000,F,8,2017
+Samsung,Samsung galaxy s9,128,150000,F,4,2018
+Samsung,Samsung galaxy s9,256,160000,F,4,2018
+Samsung,Samsung galaxy s9,64,145000,F,6,2018
+Samsung,Samsung galaxy s9 active,64,155000,F,8,2018
+Samsung,Samsung galaxy s9+,128,165000,F,2,2018
+Samsung,Samsung galaxy s9+,256,175000,F,3,2018
+Samsung,Samsung galaxy s9+,32,65000,F,3,2018
+Tecno,camon 11,64,75000,F,3,2018
+Tecno,camon 11 pro,64,80000,F,3,2018
+Tecno,camon 12,64,70000,F,3,2019
+Tecno,camon 12 air,64,85000,F,3,2019
+Tecno,camon 12 pro,64,90000,F,4,2019
+Tecno,camon 15,64,85000,F,4,2020
+Tecno,camon 15 air,128,120000,F,3,2020
+Tecno,camon 15 premier,128,110000,F,4,2020
+Tecno,camon 15 pro,64,95000,F,4,2020
+Tecno,camon 16,128,100000,E,4,2020
+Tecno,camon 16,128,130000,E,4,2020
+Tecno,camon 16 premier,128,115000,E,4,2020
+Tecno,camon 16 pro,128,105000,E,4,2020
+Tecno,camon 16 se,128,120000,E,6,2020
+Tecno,camon 17,128,125000,D,4,2021
+Tecno,camon 17 p,256,140000,D,4,2021
+Tecno,camon 17 pro,128,130000,D,4,2021
+Tecno,camon 18,128,135000,C,4,2021
+Tecno,camon 18 p,128,150000,C,4,2021
+Tecno,camon 18 premier,128,140000,C,6,2021
+Tecno,camon 19,128,160000,C,6,2022
+Tecno,camon 19 pro,256,170000,C,4,2022
+Tecno,camon 20,512,250000,B,6,2023
+Tecno,camon 20 premier 5g,128,200000,B,6,2023
+Tecno,camon 20 pro 5g,256,220000,B,6,2023
+Tecno,camon 20 pro 5g,256,230000,B,6,2023
+Tecno,camon 30,256,240000,A,6,2024
+Tecno,camon 30 5g,512,260000,A,6,2024
+Tecno,camon 30 5g,512,300000,A,4,2024
+Tecno,camon 30 premier 5g,256,280000,A,4,2024
+Tecno,camon 30 pro 5g,128,210000,A,6,2024
+Tecno,camon 30s,128,250000,A,6,2024
+Tecno,camon 40,256,270000,A,6,2025
+Tecno,camon 40,512,350000,A,6,2025
+Tecno,camon 40 premier,256,320000,A,6,2025
+Tecno,camon 40 pro,256,260000,A,6,2025
+Tecno,phantom x,512,290000,C,6,2021
+Tecno,phantom x,256,300000,C,6,2021
+Tecno,phantom x2,512,330000,B,6,2022
+Tecno,phantom x2,256,450000,B,2,2022
+Tecno,phantom x2 pro,512,500000,B,3,2022
+Tecno,phantom x2 pro,32,45000,B,4,2022
+Tecno,pop 10,64,50000,B,2,2025
+Tecno,pop 10,128,55000,B,3,2025
+Tecno,pop 10,32,48000,B,4,2025
+Tecno,pop 10 pro,64,53000,B,2,2025
+Tecno,pop 10 pro,128,58000,B,3,2025
+Tecno,pop 10 pro,32,42000,B,4,2025
+Tecno,pop 10 c,64,47000,B,2,2025
+Tecno,pop 10 c,128,52000,B,2,2025
+Tecno,pop 10 c,16,35000,B,2,2025
+Tecno,pop 3,32,38000,F,2,2019
+Tecno,pop 3 lte,32,40000,F,2,2019
+Tecno,pop 3 plus,16,32000,F,2,2019
+Tecno,pop 4,32,35000,F,2,2020
+Tecno,pop 4 lte,32,37000,F,2,2020
+Tecno,pop 4 pro,32,40000,F,3,2020
+Tecno,pop 5,32,42000,F,3,2021
+Tecno,pop 5 lte,64,45000,F,2,2021
+Tecno,pop 5 pro,64,48000,F,2,2022
+Tecno,pop 6,32,45000,E,3,2022
+Tecno,pop 6,32,46000,E,3,2022
+Tecno,pop 6 lte,64,50000,E,2,2022
+Tecno,pop 6 pro,64,52000,E,3,2022
+Tecno,pop 7,32,49000,D,3,2023
+Tecno,pop 7,64,53000,D,4,2023
+Tecno,pop 7 lte,64,55000,D,3,2023
+Tecno,pop 7 pro,128,60000,D,3,2023
+Tecno,pop 8,64,57000,C,4,2023
+Tecno,pop 8,64,58000,C,3,2023
+Tecno,pop 8 lte,128,62000,C,4,2023
+Tecno,pop 8 lte,64,59000,C,3,2023
+Tecno,pop 8 pro,128,63000,C,4,2024
+Tecno,pop 8 pro,64,65000,C,3,2024
+Tecno,pop 9,128,70000,B,4,2024
+Tecno,pop 9,64,75000,B,3,2024
+Tecno,pop 9 5g,128,80000,B,4,2024
+Tecno,pop 9 5g,64,72000,B,4,2024
+Tecno,pop 9 pro,128,77000,B,4,2025
+Tecno,pop 9 pro,128,58000,B,6,2025
+Tecno,pop 7 pro,128,110000,D,4,2023
+Tecno,pova 5,256,130000,B,6,2023
+Tecno,pova 5,128,120000,B,4,2023
+Tecno,pova 5 pro,256,140000,B,6,2023
+Tecno,pova 5 pro,128,150000,B,4,2023
+Tecno,pova 6 pro,256,170000,A,4,2021
+Tecno,pova 6 pro,128,110000,A,6,2021
+Tecno,tecno spark 10,128,130000,C,3,2021
+Tecno,tecno spark 10 pro,256,150000,C,4,2022
+Tecno,tecno spark 10 pro,64,85000,C,3,2022
+Tecno,tecno spark 10c,128,95000,C,2,2022
+Tecno,tecno spark 10c,64,120000,C,3,2022
+Tecno,tecno spark 15,32,100000,B,3,2026
+Tecno,tecno spark 15 air,64,110000,B,4,2026
+Tecno,tecno spark 15 air,64,140000,B,4,2021
+Tecno,tecno spark 15 pro,128,160000,B,4,2021
+Tecno,tecno spark 15 pro,128,130000,B,4,2021
+Tecno,tecno spark 16,128,150000,B,4,2021
+Tecno,tecno spark 16 pro,128,170000,B,6,2021
+Tecno,tecno spark 20,128,190000,B,4,2021
+Tecno,tecno spark 20 5g,256,210000,B,6,2021
+Tecno,tecno spark 20 5g,128,200000,B,6,2021
+Tecno,tecno spark 20 pro,256,220000,B,4,2021
+Tecno,tecno spark 20 pro,256,240000,B,4,2021
+Tecno,tecno spark 20 pro+,128,180000,B,6,2021
+Tecno,tecno spark 20c,128,200000,B,4,2021
+Tecno,tecno spark 30 4g,256,220000,A,6,2021
+Tecno,tecno spark 30 4g,128,230000,A,4,2021
+Tecno,tecno spark 30 5g,256,250000,A,4,2021
+Tecno,tecno spark 30 5g,128,210000,A,4,2021
+Tecno,tecno spark 30c,128,240000,A,6,2021
+Tecno,tecno spark 40,128,260000,A,6,2021
+Tecno,tecno spark 40 pro,256,280000,A,4,2021
+Tecno,tecno spark 40 pro,256,300000,A,2,2021
+Tecno,tecno spark 40 pro+,128,250000,A,3,2021
+Tecno,tecno spark 40c,32,65000,A,3,2021
+Tecno,tecno spark 7,64,70000,F,4,2021
+Tecno,tecno spark 7,64,75000,F,3,2021
+Tecno,tecno spark 7 pro,128,80000,F,3,2021
+Tecno,tecno spark 7 pro,64,85000,F,4,2021
+Tecno,tecno spark 8,64,90000,E,3,2021
+Tecno,tecno spark 8 pro,128,95000,E,4,2021
+Tecno,tecno spark 8 pro,64,95000,E,4,2021
+Tecno,tecno spark 9,128,100000,D,4,2021
+Tecno,tecno spark 9,128,103000,D,8,2021
+Tecno,tecno spark 9 pro,128,99900,D,8,2021
+Tecno,tecno spark 9t,64,120000,D,6,2021
+Vivo,vivo t3x,128,140000,B,8,2021
+Vivo,vivo t3x,128,250000,B,4,2021
+Vivo,vivo v25,256,280000,D,6,2021
+Vivo,vivo v25,64,180000,D,6,2021
+Vivo,vivo v25 lite,128,200000,D,8,2021
+Vivo,vivo v25 lite,128,320000,D,6,2021
+Vivo,vivo v25 pro,256,350000,D,8,2021
+Vivo,vivo v25 pro,128,300000,D,6,2021
+Vivo,vivo v27,256,330000,C,8,2021
+Vivo,vivo v27,128,380000,C,6,2021
+Vivo,vivo v27 pro,256,420000,C,8,2021
+Vivo,vivo v27 pro,128,220000,C,6,2021
+Vivo,vivo v27e,256,250000,C,8,2021
+Vivo,vivo v27e,128,340000,C,6,2021
+Vivo,vivo v29,256,370000,B,6,2021
+Vivo,vivo v29,128,240000,B,8,2021
+Vivo,vivo v29 lite,128,400000,B,6,2021
+Vivo,vivo v29 pro,256,440000,B,8,2021
+Vivo,vivo v29 pro,128,360000,B,8,2021
+Vivo,vivo v30,256,400000,A,6,2021
+Vivo,vivo v30,512,450000,A,8,2021
+Vivo,vivo v30,128,260000,A,8,2021
+Vivo,vivo v30 lite,256,290000,B,8,2021
+Vivo,vivo v30 lite,256,480000,B,12,2021
+Vivo,vivo v30 pro,512,520000,A,12,2021
+Vivo,vivo v30 pro,256,700000,A,12,2021
+Vivo,vivo x100,512,750000,A,12,2021
+Vivo,vivo x100,1024,800000,A,12,2021
+Vivo,vivo x100,256,850000,A,12,2021
+Vivo,vivo x100 pro,512,900000,A,12,2021
+Vivo,vivo x100 pro,1024,950000,A,12,2020
+Vivo,vivo x100 pro,256,1000000,A,12,2020
+Vivo,vivo x100 ultra,512,1050000,A,8,2020
+Vivo,vivo x100 ultra,1024,1100000,A,12,2020
+Vivo,vivo x100 ultra,128,400000,A,12,2020
+Vivo,vivo x80,256,450000,C,8,2020
+Vivo,vivo x80,512,500000,C,12,2020
+Vivo,vivo x80,128,300000,C,12,2020
+Vivo,vivo x80 lite,256,330000,D,12,2020
+Vivo,vivo x80 lite,256,550000,D,8,2020
+Vivo,vivo x80 pro,512,600000,C,12,2020
+Vivo,vivo x80 pro,128,500000,C,12,2020
+Vivo,vivo x90,256,550000,B,12,2020
+Vivo,vivo x90,512,600000,B,12,2020
+Vivo,vivo x90,256,650000,B,6,2020
+Vivo,vivo x90 pro,512,700000,B,8,2020
+Vivo,vivo x90 pro,128,160000,B,6,2020
+Vivo,vivo y100,256,190000,B,8,2020
+Vivo,vivo y100,128,200000,B,4,2021
+Vivo,vivo y200 5g,256,230000,B,6,2021
+Vivo,vivo y200 5g,64,140000,B,4,2021
+Vivo,vivo y22s,128,160000,E,6,2021
+Vivo,vivo y22s,64,170000,E,4,2021
+Vivo,vivo y27,128,190000,D,6,2021
+Vivo,vivo y27,64,180000,D,6,2021
+Vivo,vivo y35,128,200000,E,8,2021
+Vivo,vivo y35,128,210000,E,6,2021
+Vivo,vivo y36,256,240000,D,8,2021
+Vivo,vivo y36,128,220000,D,6,2021
+Vivo,vivo y78,256,250000,C,8,2021
+Vivo,vivo y78,128,450000,C,6,2021
+Xiaomi ,xiaomi 11,256,500000,D,8,2021
+Xiaomi ,xiaomi 11,128,280000,D,6,2021
+Xiaomi ,xiaomi 11 lite 5g ne,256,320000,D,8,2021
+Xiaomi ,xiaomi 11 lite 5g ne,128,550000,D,8,2021
+Xiaomi ,xiaomi 11 pro,256,600000,D,12,2021
+Xiaomi ,xiaomi 11 pro,256,750000,D,6,2021
+Xiaomi ,xiaomi 11 ultra,512,850000,D,8,2021
+Xiaomi ,xiaomi 11 ultra,128,400000,D,6,2021
+Xiaomi ,xiaomi 11t,256,450000,D,8,2021
+Xiaomi ,xiaomi 11t,128,500000,D,6,2021
+Xiaomi ,xiaomi 11t pro,256,550000,D,8,2021
+Xiaomi ,xiaomi 11t pro,128,550000,D,6,2021
+Xiaomi ,xiaomi 12,256,600000,C,8,2021
+Xiaomi ,xiaomi 12,128,350000,C,6,2021
+Xiaomi ,xiaomi 12 lite,256,400000,C,8,2021
+Xiaomi ,xiaomi 12 lite,128,650000,C,8,2021
+Xiaomi ,xiaomi 12 pro,256,700000,C,12,2021
+Xiaomi ,xiaomi 12 pro,256,900000,C,6,2021
+Xiaomi ,xiaomi 12s ultra,512,1000000,C,8,2021
+Xiaomi ,xiaomi 12s ultra,128,500000,C,6,2021
+Xiaomi ,xiaomi 12t,256,550000,C,8,2021
+Xiaomi ,xiaomi 12t,128,600000,C,6,2021
+Xiaomi ,xiaomi 12t pro,256,650000,C,8,2021
+Xiaomi ,xiaomi 12t pro,128,650000,C,12,2021
+Xiaomi ,xiaomi 13,256,700000,B,6,2021
+Xiaomi ,xiaomi 13,512,750000,B,8,2021
+Xiaomi ,xiaomi 13,128,400000,B,8,2021
+Xiaomi ,xiaomi 13 lite,256,450000,B,12,2021
+Xiaomi ,xiaomi 13 lite,256,800000,B,6,2021
+Xiaomi ,xiaomi 13 pro,512,850000,B,8,2021
+Xiaomi ,xiaomi 13 pro,128,900000,B,12,2021
+Xiaomi ,xiaomi 13 pro,256,950000,B,6,2021
+Xiaomi ,xiaomi 13 ultra,512,1000000,B,8,2021
+Xiaomi ,xiaomi 13 ultra,128,1100000,B,8,2021
+Xiaomi ,xiaomi 13 ultra,256,650000,B,12,2021
+Xiaomi ,xiaomi 13t,256,700000,B,6,2021
+Xiaomi ,xiaomi 13t pro,512,750000,B,8,2021
+Xiaomi ,xiaomi 13t pro,128,800000,B,12,2021
+Xiaomi ,xiaomi 13t pro,256,800000,B,6,2021
+Xiaomi ,xiaomi 14,512,850000,A,8,2021
+Xiaomi ,xiaomi 14,128,900000,A,12,2021
+Xiaomi ,xiaomi 14,256,900000,A,6,2021
+Xiaomi ,xiaomi 14 pro,512,950000,A,8,2021
+Xiaomi ,xiaomi 14 pro,128,1000000,A,12,2021
+Xiaomi ,xiaomi 14 pro,256,1100000,A,6,2021
+Xiaomi ,xiaomi 14 ultra,512,1150000,A,8,2021
+Xiaomi ,xiaomi 14 ultra,128,1200000,A,12,2021
+Xiaomi ,xiaomi 14 ultra,256,750000,A,8,2021
+Xiaomi ,xiaomi 14t,512,800000,A,12,2021
+Xiaomi ,xiaomi 14t,256,850000,A,6,2021
+Xiaomi ,xiaomi 14t pro,512,900000,A,8,2021
+Xiaomi ,xiaomi 14t pro,128,950000,A,12,2021
+Xiaomi ,xiaomi 14t pro,256,900000,A,6,2021
+Xiaomi ,xiaomi 15,512,950000,A,8,2021
+Xiaomi ,xiaomi 15,128,1000000,A,12,2021
+Xiaomi ,xiaomi 15,256,1100000,A,12,2021
+Xiaomi ,xiaomi 15 pro,512,1150000,A,6,2021
+Xiaomi ,xiaomi 15 pro,512,1200000,A,12,2021
+Xiaomi ,xiaomi 15 ultra,128,1300000,A,8,2021
+Xiaomi ,xiaomi 15 ultra,512,850000,A,6,2021
+Xiaomi ,xiaomi 15t,256,900000,A,6,2021
+Xiaomi ,xiaomi 15t,128,950000,A,8,2021
+Xiaomi ,xiaomi 15t pro,128,350000,A,4,2021
+Xiaomi ,xiaomi mi 10,256,385000,E,6,2021
+Xiaomi ,xiaomi mi 10,64,200000,E,8,2021
+Xiaomi ,xiaomi mi 10 lite 5g,128,225000,E,8,2021
+Xiaomi ,xiaomi mi 10 lite 5g,256,250000,E,12,2021
+Xiaomi ,xiaomi mi 10 lite 5g,256,450000,E,6,2021
+Xiaomi ,xiaomi mi 10 pro,512,500000,E,8,2021
+Xiaomi ,xiaomi mi 10 pro,128,550000,E,12,2021
+Xiaomi ,xiaomi mi 10 ultra,256,600000,E,4,2021
+Xiaomi ,xiaomi mi 10 ultra,512,650000,E,6,2021
+Xiaomi ,xiaomi mi 10 ultra,64,180000,E,8,2021
+Xiaomi ,xiaomi mi 10 youth (lite zoom),128,200000,E,6,2021
+Xiaomi ,xiaomi mi 10 youth (lite zoom),256,220000,E,4,2021
+Xiaomi ,xiaomi mi 10 youth (lite zoom),128,300000,E,6,2021
+Xiaomi ,xiaomi mi 10t,64,180000,E,6,2021
+Xiaomi ,xiaomi mi 10t lite,128,200000,E,8,2021
+Xiaomi ,xiaomi mi 10t lite,128,350000,E,4,2022
+Xiaomi ,xiaomi mi 10t pro,256,400000,E,6,2022
+Xiaomi ,xiaomi mi 10t pro,64,220000,E,6,2022
+Xiaomi ,xiaomi mi 11 lite (4g),128,250000,E,6,2022
+Xiaomi ,xiaomi mi 11 lite (4g),128,280000,E,8,2022
+Xiaomi ,xiaomi mi 11 lite 5g,128,400000,D,6,2022
+Xiaomi ,xiaomi mi 11i,256,450000,D,8,2022
+Xiaomi ,xiaomi mi 11i,128,85000,D,6,2022
+Xiaomi Poco,poco c65,256,95000,D,8,2023
+Xiaomi Poco,poco c65,128,350000,D,6,2023
+Xiaomi Poco,poco f4,256,400000,C,8,2023
+Xiaomi Poco,poco f4,128,420000,C,8,2023
+Xiaomi Poco,poco f4 gt,256,470000,C,8,2023
+Xiaomi Poco,poco f4 gt,256,500000,C,12,2023
+Xiaomi Poco,poco f5,256,550000,B,6,2023
+Xiaomi Poco,poco f5 pro,512,600000,B,8,2023
+Xiaomi Poco,poco f5 pro,128,550000,B,12,2023
+Xiaomi Poco,poco f6,256,600000,A,8,2024
+Xiaomi Poco,poco f6,512,650000,A,12,2024
+Xiaomi Poco,poco f6,256,650000,A,6,2024
+Xiaomi Poco,poco f6 pro,512,700000,A,4,2024
+Xiaomi Poco,poco f6 pro,128,750000,A,6,2024
+Xiaomi Poco,poco f6 pro,64,120000,A,4,2024
+Xiaomi Poco,poco m2,128,140000,F,6,2024
+Xiaomi Poco,poco m2,64,160000,F,4,2024
+Xiaomi Poco,poco m2 pro,128,180000,F,6,2024
+Xiaomi Poco,poco m2 pro,64,150000,F,4,2024
+Xiaomi Poco,poco m3,128,170000,F,6,2024
+Xiaomi Poco,poco m3,64,190000,F,4,2018
+Xiaomi Poco,poco m3 pro 5g,128,210000,E,6,2018
+Xiaomi Poco,poco m3 pro 5g,64,200000,E,8,2018
+Xiaomi Poco,poco m4 5g,128,220000,D,4,2018
+Xiaomi Poco,poco m4 5g,256,230000,D,6,2019
+Xiaomi Poco,poco m4 pro 4g,64,240000,D,4,2019
+Xiaomi Poco,poco m4 pro 5g,128,260000,D,6,2019
+Xiaomi Poco,poco m4 pro 5g,64,170000,D,4,2019
+Xiaomi Poco,poco m5,128,190000,D,6,2019
+Xiaomi Poco,poco m5,64,200000,D,6,2020
+Xiaomi Poco,poco m5 s,128,220000,D,8,2020
+Xiaomi Poco,poco m5 s,128,210000,D,6,2020
+Xiaomi Poco,poco m6 4g,256,230000,C,8,2020
+Xiaomi Poco,poco m6 4g,128,220000,C,6,2020
+Xiaomi Poco,poco m6 5g,256,240000,C,8,2020
+Xiaomi Poco,poco m6 5g,128,250000,C,12,2020
+Xiaomi Poco,poco m6 pro 4g,256,270000,C,6,2020
+Xiaomi Poco,poco m6 pro 4g,512,290000,C,8,2064
+Xiaomi Poco,poco m6 pro 4g,128,260000,C,12,2024
+Xiaomi Poco,poco m6 pro 5g,256,280000,C,6,2023
+Xiaomi Poco,poco m6 pro 5g,512,300000,C,8,2023
+Xiaomi Poco,poco m6 pro 5g,128,280000,C,6,2023
+Xiaomi Poco,poco m7,256,300000,A,8,2025
+Xiaomi Poco,poco m7,128,310000,A,4,2025
+Xiaomi Poco,poco m7 pro 5g,256,330000,A,6,2025
+Xiaomi Poco,poco m7 pro 5g,64,180000,A,8,2025
+Xiaomi Poco,poco x2,128,200000,F,6,2020
+Xiaomi Poco,poco x2,256,230000,F,8,2020
+Xiaomi Poco,poco x2,128,189900,F,4,2020
+Xiaomi Poco,poco x3 gt,256,247000,D,6,2021
+Xiaomi Poco,poco x3 gt,64,130000,D,6,2021
+Xiaomi Poco,poco x3 nfc,128,149900,E,8,2020
+Xiaomi Poco,poco x3 nfc,128,180000,E,6,2020
+Xiaomi Poco,poco x3 pro,256,193000,E,8,2021
+Xiaomi Poco,poco x3 pro,128,250000,E,6,2021
+Xiaomi Poco,poco x4 gt,256,280000,C,8,2022
+Xiaomi Poco,poco x4 gt,128,300000,C,6,2022
+Xiaomi Poco,poco x4 pro 5g,256,330000,C,8,2022
+Xiaomi Poco,poco x4 pro 5g,128,320000,C,6,2022
+Xiaomi Poco,poco x5 5g,256,350000,C,8,2023
+Xiaomi Poco,poco x5 5g,128,380000,C,8,2023
+Xiaomi Poco,poco x5 pro 5g,256,420000,B,12,2023
+Xiaomi Poco,poco x5 pro 5g,256,450000,B,8,2023
+Xiaomi Poco,poco x6 5g,512,500000,B,12,2024
+Xiaomi Poco,poco x6 5g,256,550000,B,3,2024
+Xiaomi Poco,poco x6 pro 5g,512,600000,B,4,2024
+Xiaomi Poco,poco x6 pro 5g,32,55000,B,6,2024
+Xiaomi Redmi ,redmi 12c,64,60000,E,6,2023
+Xiaomi Redmi ,redmi 12c,128,65000,E,8,2023
+Xiaomi Redmi ,redmi 12c,128,70000,E,6,2023
+Xiaomi Redmi ,redmi 13c,256,75000,D,8,2023
+Xiaomi Redmi ,redmi 13c,128,80000,D,6,2023
+Xiaomi Redmi ,redmi 14c,256,85000,C,8,2024
+Xiaomi Redmi ,redmi 14c,128,90000,C,4,2024
+Xiaomi Redmi ,redmi 15c,256,95000,B,6,2025
+Xiaomi Redmi ,redmi 15c,64,120000,B,4,2025
+Xiaomi Redmi ,redmi note 10,128,140000,E,6,2021
+Xiaomi Redmi ,redmi note 10,64,130000,E,4,2021
+Xiaomi Redmi ,redmi note 10 5g,128,150000,E,6,2021
+Xiaomi Redmi ,redmi note 10 5g,64,160000,E,4,2021
+Xiaomi Redmi ,redmi note 10 pro,128,180000,D,6,2021
+Xiaomi Redmi ,redmi note 10 pro,64,190000,D,4,2021
+Xiaomi Redmi ,redmi note 10 pro max,128,210000,D,6,2021
+Xiaomi Redmi ,redmi note 10 pro max,64,150000,D,4,2021
+Xiaomi Redmi ,redmi note 10s,128,170000,E,6,2021
+Xiaomi Redmi ,redmi note 10s,64,180000,E,6,2021
+Xiaomi Redmi ,redmi note 11,128,200000,D,8,2022
+Xiaomi Redmi ,redmi note 11,128,250000,D,4,2022
+Xiaomi Redmi ,redmi note 11 pro +,256,280000,D,6,2022
+Xiaomi Redmi ,redmi note 11 pro +,64,220000,D,4,2022
+Xiaomi Redmi ,redmi note 11 pro 5g,128,240000,D,6,2022
+Xiaomi Redmi ,redmi note 11 pro 5g,64,135000,D,4,2022
+Xiaomi Redmi ,redmi note 11s,128,144900,D,6,2022
+Xiaomi Redmi ,redmi note 11s,64,230000,D,8,2022
+Xiaomi Redmi ,redmi note 12,128,300000,C,6,2023
+Xiaomi Redmi ,redmi note 12,256,330000,C,6,2023
+Xiaomi Redmi ,redmi note 12,128,350000,C,8,2023
+Xiaomi Redmi ,redmi note 12 5g,128,250000,C,8,2023
+Xiaomi Redmi ,redmi note 12 pro 5g,256,270000,C,6,2023
+Xiaomi Redmi ,redmi note 12 pro 5g,256,260000,C,8,2023
+Xiaomi Redmi ,redmi note 12 pro+,128,290000,C,6,2023
+Xiaomi Redmi ,redmi note 12s,256,280000,C,8,2023
+Xiaomi Redmi ,redmi note 12s,128,310000,C,6,2023
+Xiaomi Redmi ,redmi note 13 4g,256,340000,B,8,2024
+Xiaomi Redmi ,redmi note 13 4g,128,350000,B,12,2024
+Xiaomi Redmi ,redmi note 13 5g,256,380000,B,8,2024
+Xiaomi Redmi ,redmi note 13 5g,512,400000,B,12,2024
+Xiaomi Redmi ,redmi note 13 5g,256,440000,B,8,2024
+Xiaomi Redmi ,redmi note 13 pro 4g,512,480000,B,12,2024
+Xiaomi Redmi ,redmi note 13 pro 4g,256,520000,B,8,2024
+Xiaomi Redmi ,redmi note 13 pro 5g,512,80000,B,12,2024
+Xiaomi Redmi ,redmi note 13 pro 5g,256,90000,B,3,2024
+Xiaomi Redmi ,redmi note 13 pro+ 5g,512,110000,B,4,2024
+Xiaomi Redmi ,redmi note 13 pro+ 5g,32,130000,B,4,2024
+Xiaomi Redmi ,redmi note 7,64,95000,F,6,2019
+Xiaomi Redmi ,redmi note 7,64,105000,F,3,2019
+Xiaomi Redmi ,redmi note 7 pro,128,120000,F,6,2019
+Xiaomi Redmi ,redmi note 7 pro,32,130000,F,4,2019
+Xiaomi Redmi ,redmi note 8,128,150000,F,4,2019
+Xiaomi Redmi ,redmi note 8,64,140000,F,6,2019
+Xiaomi Redmi ,redmi note 8,64,160000,F,4,2019
+Xiaomi Redmi ,redmi note 8 pro,128,145000,F,6,2019
+Xiaomi Redmi ,redmi note 8 pro,64,120000,F,4,2019
+Xiaomi Redmi ,redmi note 9,128,140000,F,6,2020
+Xiaomi Redmi ,redmi note 9,64,140000,F,4,2020
+Xiaomi Redmi ,redmi note 9 pro,128,160000,F,6,2020
+Xiaomi Redmi ,redmi note 9 pro,64,170000,F,4,2020
+Xiaomi Redmi ,redmi note 9 pro max,128,190000,F,6,2020
+Xiaomi Redmi ,redmi note 9 pro max,64,150000,F,6,2020
+Xiaomi Redmi ,redmi note 9s,128,170000,F,8,2020
+Xiaomi Redmi ,redmi note 9s,128,450000,F,8,2020
+red magic ,red magic 3s,256,500000,F,12,2019
+red magic ,red magic 3s,128,550000,F,12,2019
+red magic ,red magic 5g,256,600000,E,6,2020
+red magic ,red magic 5g,256,650000,E,12,2020
+red magic ,red magic 5s pro,128,600000,E,12,2021
+red magic ,red magic 6,256,650000,D,6,2021
+red magic ,red magic 6,256,700000,D,6,2021
+red magic ,red magic 6 pro,128,550000,D,12,2021
+red magic ,red magic 6r,128,650000,E,16,2021
+red magic ,red magic 7,256,700000,C,12,2022
+red magic ,red magic 7,256,750000,C,12,2022
+red magic ,red magic 7 pro,256,800000,C,16,2022
+red magic ,red magic 7s pro,256,850000,C,12,2022
+red magic ,red magic 8 pro,512,950000,B,12,2023
+red magic ,red magic 8 pro,256,900000,B,16,2023
+red magic ,red magic 8s pro,256,950000,B,12,2023
+red magic ,red magic 9 pro,512,1050000,A,12,2024
+red magic ,red magic 9 pro,256,1100000,A,16,2024
+red magic ,red magic 9s pro,256,1150000,A,16,2024
+red magic ,red magic 10 pro,512,1300000,A,24,2025
+red magic ,red magic 10 pro,256,1250000,A,16,2025
+red magic ,red magic 10s pro,512,1400000,A,12,2025
+red magic ,red magic 10s pro,512,1500000,A,16,2025
+red magic ,red magic 11 pro,256,300000,A,12,2025
+ZTE,zte axon 50 5g,512,350000,B,16,2024
+ZTE,zte axon 50 5g,128,400000,B,16,2024
+ZTE,zte axon 60 pro,256,450000,A,24,2025
+ZTE,zte axon 60 pro,256,500000,A,8,2025
+ZTE,zte axon 60 ultra,512,550000,A,4,2025
+ZTE,zte axon 60 ultra,128,250000,A,6,2025
+ZTE,zte blade v40 pro,64,150000,D,8,2021
+ZTE,zte blade v40 vita,128,170000,E,12,2021
+ZTE,zte blade v40 vita,128,200000,E,12,2021
+ZTE,zte blade v50 design,256,230000,C,12,2023
+ZTE,zte blade v50 design,512,250000,C,0,2023

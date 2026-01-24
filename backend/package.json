@@ -1,0 +1,17 @@
+{
+  "name": "tekh-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test-supabase.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.90.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.1"
+  }
+}
