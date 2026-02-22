@@ -6,8 +6,16 @@ import { supabase, TABLE_PRODUCTS } from "./supabase.js";
 
 const app = express();
 const PORT = process.env.PORT || 8083;
-// Railway configuration forcing: although process.env.PORT is usually set by Railway,
-// we ensure 8083 is the default fallback as seen in the user's dashboard.
+
+// Diagnostic logs for Railway
+console.log(`[DIAG] process.env.PORT: ${process.env.PORT}`);
+console.log(`[DIAG] process.env.RAILWAY_STATIC_URL: ${process.env.RAILWAY_STATIC_URL}`);
+console.log(`[DIAG] All Env Keys: ${Object.keys(process.env).filter(k => k.includes('PORT') || k.includes('RAILWAY')).join(', ')}`);
+
+// Heartbeat to confirm process stays alive
+setInterval(() => {
+  console.log(`[HEARTBEAT] ${new Date().toISOString()} - Up and running on port ${PORT}`);
+}, 30000);
 
 // Tableau qui contiendra les données du CSV (JSON)
 let produits = [];
@@ -78,36 +86,58 @@ async function importCsvOnce() {
     return;
   }
   try {
-    // Vérifier s'il y a déjà des lignes
-    const { count, error: countErr } = await supabase
+    // Try primary table first
+    console.log(`[API] Tentative de connexion à la table: ${TABLE_PRODUCTS}`);
+    let { count, error: countErr } = await supabase
       .from(TABLE_PRODUCTS)
       .select("id", { count: "exact", head: true });
+
+    let activeTable = TABLE_PRODUCTS;
+
+    // Fallback logic if primary table missing
+    if (countErr && countErr.code === 'PGRST205' && TABLE_PRODUCTS !== 'produits') {
+      console.warn(`[API] Table ${TABLE_PRODUCTS} introuvable (PGRST205). Repli sur 'produits'.`);
+      const fallback = await supabase
+        .from('produits')
+        .select("id", { count: "exact", head: true });
+
+      if (!fallback.error) {
+        activeTable = 'produits';
+        count = fallback.count;
+        countErr = null;
+      }
+    }
+
     if (countErr) {
       console.error("[API] Erreur comptage Supabase:", countErr);
       return;
     }
+
     if ((count || 0) > 0) {
-      console.log(`[API] Table ${TABLE_PRODUCTS} déjà peuplée (${count}). Import initial ignoré.`);
+      console.log(`[API] Table ${activeTable} déjà peuplée (${count}). Import initial ignoré.`);
       return;
     }
+
     if (!csvLoaded) {
       console.log("[API] CSV pas encore chargé, attente avant import...");
-      // Attendre un court délai pour s'assurer du chargement
-      await new Promise((r) => setTimeout(r, 500));
+      await new Promise((r) => setTimeout(r, 1000));
     }
+
     if (produits.length === 0) {
       console.warn("[API] Aucun produit en mémoire à importer.");
       return;
     }
+
     // Insertion en lot
-    const { error: insErr } = await supabase.from(TABLE_PRODUCTS).insert(produits);
+    console.log(`[API] Importation de ${produits.length} produits dans ${activeTable}...`);
+    const { error: insErr } = await supabase.from(activeTable).insert(produits);
     if (insErr) {
       console.error("[API] Erreur import CSV -> Supabase:", insErr);
       return;
     }
-    console.log("[API] CSV importé dans Supabase (", produits.length, ")");
+    console.log(`[API] CSV importé avec succès dans ${activeTable}`);
   } catch (e) {
-    console.error("[API] Exception importCsvOnce:", e);
+    console.error("[API] Exception fatale importCsvOnce:", e);
   }
 }
 
@@ -131,16 +161,22 @@ app.get("/health", (req, res) => {
 });
 
 // Route produits
-app.get("/produits", async (_req, res) => {
+app.get("/produits", async (req, res) => {
+  console.log(`[API] Request to /produits from ${req.headers.origin || 'unknown'}`);
   if (!csvLoaded) return res.status(503).json({ error: "Chargement des données en cours" });
 
-  // Si on veut quand même essayer de synchroniser avec Supabase mais sans bloquer
   if (supabase) {
     try {
-      const { data, error } = await supabase.from(TABLE_PRODUCTS).select("*");
-      if (!error && data) return res.json(data);
+      // Logic for table fallback here too
+      let result = await supabase.from(TABLE_PRODUCTS).select("*");
+      if (result.error && result.error.code === 'PGRST205' && TABLE_PRODUCTS !== 'produits') {
+        result = await supabase.from('produits').select("*");
+      }
+
+      if (!result.error && result.data) return res.json(result.data);
+      if (result.error) console.warn("[API] Supabase error, falling back to local CSV:", result.error.message);
     } catch (e) {
-      console.warn("[API] /produits: fallback CSV (Supabase unreachable)");
+      console.warn("[API] /produits exception: fallback CSV");
     }
   }
 
